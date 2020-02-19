@@ -1,0 +1,1562 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="CLAIMS_RESTORE_CLAIM3813_FOR_EDITION" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Data Scripts\CLAIMS_RESTORE_CLAIM_FOR_EDITION.sql;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="CLAIMS_UPDATES_AUTOMATION" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Data Scripts\CLAIMS UPDATES AUTOMATION.sql;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-16</value>
+  </data>
+  <data name="deleteAllAssetsFromCase2374" xml:space="preserve">
+    <value>delete from dbo.[Asset] where CaseId = 2374</value>
+  </data>
+  <data name="DeleteAutomationCreatedTestClaimsFromCaseByCaseId" xml:space="preserve">
+    <value>DELETE [dbo].[ClaimBankAccountTransaction] WHERE ClaimId IN(SELECT ClaimId FROM [dbo].[Claim] WHERE (ClaimNumberSuffix LIKE '%Auto%' OR ClaimNumberSuffix LIKE '%AUTO%') AND CaseId=@CaseId);
+DELETE [dbo].[ClaimNote] WHERE ClaimId IN (SELECT ClaimId FROM [dbo].[Claim] WHERE (ClaimNumberSuffix LIKE '%Auto%' OR ClaimNumberSuffix LIKE '%AUTO%') AND CaseId=@CaseId);
+DELETE [dbo].[Claim] WHERE (ClaimNumberSuffix LIKE '%Auto%' OR ClaimNumberSuffix LIKE '%AUTO%') AND CaseId=@CaseId;</value>
+    <comment>Delete generated test Claims and their associated notes for Case 1092</comment>
+  </data>
+  <data name="DeleteAutomationCreatedTransactionsByCaseId" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Data Scripts\DeleteAutomationCreatedTransactionsByCaseId.sql;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="deleteDepositByCaseIdAndDepositName" xml:space="preserve">
+    <value>--ASSETS LINK
+DELETE FROM [dbo].[AssetBankAccountTransaction] WHERE AssetBankAccountTransactionId IN (
+SELECT AssetBankAccountTransactionId FROM [dbo].[AssetBankAccountTransaction] WHERE BankAccountTransactionAllocationId IN (
+SELECT BankAccountTransactionAllocationId FROM [dbo].[BankAccountTransactionAllocation] WHERE BankAccountTransactionId IN (
+SELECT TOP 1 BankAccountTransactionId FROM BankAccountTransaction WHERE BankAccountId IN (SELECT BankAccountId FROM BankAccount WHERE CaseId = 1960) 
+AND FullName = @depositName)))
+
+--CLOSING COSTS Y NON PAYEE
+DELETE FROM [dbo].[ClaimBankAccountTransaction] WHERE ClaimBankAccountTransactionId IN (
+SELECT ClaimBankAccountTransactionId FROM [dbo].[ClaimBankAccountTransaction] WHERE BankAccountTransactionAllocationId IN (
+SELECT BankAccountTransactionAllocationId FROM [dbo].[BankAccountTransactionAllocation] WHERE BankAccountTransactionId IN (
+SELECT TOP 1 BankAccountTransactionId FROM BankAccountTransaction WHERE BankAccountId IN (SELECT BankAccountId FROM BankAccount WHERE CaseId = 1960) 
+AND FullName = @depositName)))
+
+--BankAccountTransactionAllocation (ASSETS &amp; CLOSING COSTS/NON PAYEE)
+DELETE FROM [dbo].[BankAccountTransactionAllocation] WHERE BankAccountTransactionAllocationId IN (
+SELECT BankAccountTransactionAllocationId FROM [dbo].[BankAccountTransactionAllocation] WHERE BankAccountTransactionId IN (
+SELECT TOP 1 BankAccountTransactionId FROM BankAccountTransaction WHERE BankAccountId IN (SELECT BankAccountId FROM BankAccount WHERE CaseId = 1960) 
+AND FullName = @depositName))
+
+--Print Status
+DELETE FROM [dbo].[BankAccountTransactionPrintStatus] WHERE BankAccountTransactionId IN (
+SELECT TOP 1 BankAccountTransactionId FROM BankAccountTransaction WHERE BankAccountId IN (SELECT BankAccountId FROM BankAccount WHERE CaseId = 1960) 
+AND FullName = @depositName)
+
+DELETE FROM [dbo].[BankAccountTransactionPrintLog] WHERE BankAccountTransactionId IN (
+SELECT TOP 1 BankAccountTransactionId FROM BankAccountTransaction WHERE BankAccountId IN (SELECT BankAccountId FROM BankAccount WHERE CaseId = 1960) 
+AND FullName = @depositName)
+
+--BankAccountTransaction : DEPOSIT
+DELETE FROM BankAccountTransaction WHERE BankAccountTransactionId IN (
+SELECT TOP 1 BankAccountTransactionId FROM BankAccountTransaction WHERE BankAccountId IN (SELECT BankAccountId FROM BankAccount WHERE CaseId = 1960) 
+AND FullName = @depositName)</value>
+  </data>
+  <data name="GetAssetLinkDataByTransactionIdAndAssetId" xml:space="preserve">
+    <value>SELECT
+ ba.BankAccountTransactionId, cbat.BankAccountTransactionAllocationId, cbat.AssetId, cl.AssetNumber, cl.Name as Description, coa.Number as LinkCode, coa.Number as AssetCode, cl.FullAdministratedDate, bata.Amount, cbat.IsDeleted 
+FROM BankAccountTransaction ba
+INNER JOIN [dbo].[BankAccountTransactionAllocation] bata ON bata.BankAccountTransactionId = ba.BankAccountTransactionId
+INNER JOIN [dbo].[AssetBankAccountTransaction] cbat on cbat.BankAccountTransactionAllocationId = bata.BankAccountTransactionAllocationId
+INNER JOIN [dbo].[ChartOfAccount] coa ON coa.ChartOfAccountId = bata.ChartOfAccountId
+INNER JOIN [dbo].[Asset] cl ON cl.AssetId = cbat.AssetId
+INNER JOIN [dbo].[ChartOfAccount] coa2 ON coa2.ChartOfAccountId = cl.DefaultChartOfAccountId
+WHERE ba.BankAccountTransactionId = @TransactionId AND cl.AssetId=@AssetId</value>
+  </data>
+  <data name="getAssetsListInfoForSpecificCaseId" xml:space="preserve">
+    <value>SELECT  
+  a.assetId AS assetId,
+  a.AssetNumber AS assetNumber, 
+  a.Name AS assetName,
+  coa.ChartOfAccountId AS assetCodeId,
+  ISNULL(coa.number,' ') AS assetCode,
+  tcms.GetFormattedMoneyAmountText(999999999.99, ISNULL(vw_arv.AssetRemainingValue,0), 'MAX') 'assetRemainingValue',
+  a.FullAdministratedDate AS assetFullAdministratedDate,
+  coa.Name AS assetCodeName
+ FROM dbo.asset  a
+  LEFT JOIN dbo.vw_AssetRemainingValue vw_arv
+   ON a.AssetId = vw_arv.AssetId
+
+  LEFT JOIN dbo.ChartOfAccount coa
+   ON coa.ChartOfAccountId = a.DefaultChartOfAccountId
+
+  WHERE a.CaseId = @caseId
+   AND a.ChartOfAccountTypeId in (27,28,29,30)
+ ORDER BY a.AssetNumber ASC,
+    a.Name ASC</value>
+  </data>
+  <data name="getCaseDetailSP" xml:space="preserve">
+    <value>DECLARE	@return_value int
+
+EXEC	@return_value = [TCMS].[GetCaseDetail]
+		@caseId, @OfficeId</value>
+  </data>
+  <data name="GetCaseIdFromCaseNumber" xml:space="preserve">
+    <value>SELECT CaseId FROM [dbo].[Case] WHERE CoreCaseNumber=@CaseNumber</value>
+  </data>
+  <data name="getCaseLevelDetailsForSpecificCaseId" xml:space="preserve">
+    <value>DECLARE @Id INT = @caseId
+
+DECLARE @debtorParticipationTypeId TINYINT = 40;
+DECLARE @OfficeId VARCHAR(10);
+DECLARE @result NVARCHAR(20);
+DECLARE @sumOfDistribution NVARCHAR(20);
+DECLARE @countOfClaims NVARCHAR(20);
+DECLARE @BalanceForCaseRetrieveResult INT
+DECLARE @GetCountOfClaimsResult INT
+DECLARE @GetSumOfDistributionsResult INT
+
+SET @OfficeId = (SELECT OfficeId FROM dbo.[Case] WHERE CaseId = @Id)
+        
+EXEC @BalanceForCaseRetrieveResult =
+     [tcms].[BalanceForCaseRetrieve] @CaseId = @Id, @Formatted = 1,
+     @result = @result OUTPUT
+
+EXEC @GetCountOfClaimsResult = [tcms].[GetCountOfClaims] @OfficeId = @OfficeId, @CaseId = @Id,
+     @countOfClaims = @countOfClaims OUTPUT
+
+EXEC @GetSumOfDistributionsResult = [tcms].[GetSumOfDistributions] @CaseId = @Id, @OfficeId = @OfficeId,
+     @sumOfDistribution = @sumOfDistribution OUTPUT
+
+    SELECT c.CaseId AS 'Id',
+        c.CoreCaseNumber AS 'Number',
+        pt.DisplayName AS 'CaseName', 
+        s.CaseStatus AS 'Status',
+        ch.Chapter AS 'Type', 
+        ISNULL(CONVERT(VARCHAR(8), d.PetitionDate, 1),'') AS 'OpenStatusDate', 
+        ISNULL(CONVERT(VARCHAR(8), d.EstimatedTFRDate, 1),'') AS 'DistributionDate',
+        px.TaxIdentification AS 'TaxID',
+        @result AS Balance,
+        @sumOfDistribution AS SumOfDistributions,
+        @countOfClaims AS CountOfClaims,
+        pmd.DebtorDisplayName AS 'DebtorName',
+        pmd.DebtorSSN,
+        pmjd.JointDebtorDisplayName AS 'JointDebtorName',
+        pmjd.JointDebtorSSN,
+        j.DisplayName AS 'JudgeName',
+        ast.AssetStatus,
+        pmda.DebtorAttorneyDisplayName AS 'AttorneyDisplayName',
+        CASE pmda.DebtorAttorneyDisplayName
+        WHEN 'pro se' THEN ad.State ELSE daa.State END AS "State",
+        CASE pmda.DebtorAttorneyDisplayName
+        WHEN 'pro se' THEN ad.City ELSE daa.City END AS City,
+        CASE pmda.DebtorAttorneyDisplayName
+        WHEN 'pro se' THEN ad.Street ELSE daa.Street END AS Street,
+        CASE pmda.DebtorAttorneyDisplayName
+        WHEN 'pro se' THEN ad.Zip ELSE daa.Zip END AS Zip,
+        CASE pmda.DebtorAttorneyDisplayName
+        WHEN 'pro se' THEN ea.Address ELSE dae.Address END AS "EmailAddress",
+        CASE pmda.DebtorAttorneyDisplayName
+        WHEN 'pro se' THEN ph.PhoneNumber ELSE dap.PhoneNumber END AS PhoneNumber,
+        jdad.State AS JointDebtorState,
+        jdad.City AS JointDebtorCity,
+        jdad.Street AS JointDebtorStreet,
+        jdad.Zip AS JointDebtorZip,
+        jdea.Address AS JointDebtorEmailAddress,
+        jdph.PhoneNumber AS JointDebtorPhoneNumber
+    FROM dbo.[Case] as c
+
+    INNER JOIN dbo.Chapter ch
+    ON ch.ChapterId = c.ChapterId
+
+    INNER JOIN dbo.CaseStatus s
+    ON s.CaseStatusId = c.CaseStatusId
+
+    INNER JOIN dbo.Participation p
+    ON p.CaseId = c.CaseId
+    AND p.ParticipationTypeId = @debtorParticipationTypeId
+
+    INNER JOIN dbo.Participant pt 
+    ON pt.ParticipantId = p.ParticipantId 
+
+    INNER JOIN dbo.vw_CaseDates d
+    ON d.CaseId = c.CaseId  
+
+    INNER JOIN dbo.vw_ParticipationMap px
+    ON px.CaseId = c.CaseId
+
+    LEFT JOIN dbo.vw_ParticipationMap_Debtor pmd
+    ON pmd.ParticipantId = pt.ParticipantId
+
+    LEFT JOIN dbo.vw_ParticipationMap_JointDebtor pmjd
+    ON c.CaseId = pmjd.CaseId
+
+    LEFT JOIN dbo.Judge j
+    ON j.JudgeID = c.JudgeID
+
+    LEFT JOIN dbo.AssetStatus ast
+    ON ast.AssetStatusId = c.AssetStatusId
+
+    LEFT JOIN dbo.vw_ParticipationMap_DebtorAttorney pmda
+    ON pmda.CaseId = c.CaseId
+
+    LEFT JOIN dbo.[Address] ad
+    ON ad.ParticipantId = pt.ParticipantId
+    AND ad.IsPrimary = 1
+
+    LEFT JOIN dbo.EmailAddress ea
+    ON ea.ParticipantId = pt.ParticipantId
+    AND ea.IsPrimary = 1
+
+    LEFT JOIN dbo.Phone ph
+    ON ph.ParticipantId = pt.ParticipantId
+    AND ph.OfficeId = c.OfficeId
+    AND ph.IsPrimary = 1 
+
+    LEFT JOIN dbo.[Address] jdad
+    ON jdad.ParticipantId = pmjd.ParticipantId
+    AND jdad.IsPrimary = 1
+
+    LEFT JOIN dbo.EmailAddress jdea
+    ON jdea.ParticipantId = pmjd.ParticipantId
+    AND jdea.IsPrimary = 1
+
+    LEFT JOIN dbo.Phone jdph
+    ON jdph.ParticipantId = pmjd.ParticipantId
+    AND jdph.OfficeId = c.OfficeId
+    AND jdph.IsPrimary = 1 
+
+    LEFT JOIN dbo.[Address] daa
+    ON daa.ParticipantId = pmda.ParticipantId
+    AND daa.IsPrimary = 1
+
+    LEFT JOIN dbo.EmailAddress dae
+    ON dae.ParticipantId = pmda.ParticipantId
+    AND dae.IsPrimary = 1
+    
+    LEFT JOIN dbo.Phone dap
+    ON dap.ParticipantId = pmda.ParticipantId
+    AND dap.OfficeId = c.OfficeId
+    AND dap.IsPrimary = 1 
+
+    WHERE c.CaseId = @Id</value>
+  </data>
+  <data name="getCaseNumbersForSpecificCodeNumber" xml:space="preserve">
+    <value>DECLARE @TrusteeIdTable [dbo].[PrimaryKeyTable]
+DECLARE @ChapterIdTable [dbo].[PrimaryKeyTable]
+DECLARE @ChartOfAccountIdTable [dbo].[PrimaryKeyTable]
+
+INSERT INTO @TrusteeIdTable SELECT TrusteeId FROM Trustee WHERE TrusteeId in (5,6,7)
+
+INSERT INTO @ChartOfAccountIdTable SELECT coa.ChartOfAccountId
+           FROM dbo.ChartOfAccount coa
+           JOIN dbo.ChartOfAccountChartOfAccountType coacoat 
+           ON coacoat.ChartOfAccountId = coa.ChartOfAccountId
+           JOIN dbo.ChartOfAccountType coat
+           ON coat.ChartOfAccountTypeId = coacoat.ChartOfAccountTypeId
+           WHERE coat.ChartOfAccountGroupId = 8 -- 1099/W2 Flags
+           AND (coat.ChartOfAccountTypeId = 24 --Miscellaneous
+           OR coat.ChartOfAccountTypeId = 25) --Miscellaneous Default
+           AND coa.OfficeId IS NULL
+		   And Coa.Number= @codeNumber
+
+INSERT INTO @ChapterIdTable SELECT ChapterId FROM Chapter
+
+EXECUTE [tcms].[GetReportTaxAllocation] 
+   @OfficeId = 5
+  ,@UserId = 3
+  ,@StartDate = '01/01/2015'
+  ,@EndDate = '12/31/2016'
+  ,@CaseId = NULL
+  ,@TrusteeIdTable = @TrusteeIdTable
+  ,@ChapterIdTable = @ChapterIdTable
+  ,@ChartOfAccountIdTable = @ChartOfAccountIdTable
+</value>
+  </data>
+  <data name="getCasesForOffice5CaseTypes" xml:space="preserve">
+    <value>SELECT DISTINCT CoreCaseNumber
+FROM dbo.[Trustee] t
+JOIN dbo.[Case] c ON c.TrusteeId = t.TrusteeId
+JOIN dbo.[Chapter] ch ON ch.ChapterId = c.ChapterId
+WHERE t.OfficeId = 5
+AND t.[Status] = 'Active'</value>
+  </data>
+  <data name="getCasesForSpecificTrustee" xml:space="preserve">
+    <value>select CoreCaseNumber  from [dbo].[Case] where trusteeId = @trusteeId</value>
+  </data>
+  <data name="getCaseTypeFilterFullListForOffice5" xml:space="preserve">
+    <value>SELECT DISTINCT ch.Chapter
+FROM dbo.[Trustee] t
+JOIN dbo.[Case] c ON c.TrusteeId = t.TrusteeId
+JOIN dbo.[Chapter] ch ON ch.ChapterId = c.ChapterId
+WHERE t.OfficeId = 5
+AND t.[Status] = 'Active'
+order by ch.chapter</value>
+  </data>
+  <data name="GetClaimLinksListDetailsByCaseId" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Data Scripts\GetClaimDetailsByCaseId.sql;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="GetClaimDetailsInfo" xml:space="preserve">
+    <value>SELECT   c.ClaimId,  c.CaseId,  cast(c.ClaimNumber as varchar (10))+''+COALESCE(c.ClaimNumberSuffix,'') as ClaimNumber, coa.Number as Code, c.ClaimedAmount, c.AllowedAmount, [tcms].[GetClaimPaidAmount](c.ClaimId) [PaidAmount],  [tcms].[GetClaimBalanceDue](c.ClaimId) [BalanceAmount]
+FROM [dbo].[Claim] c
+INNER JOIN [dbo].[ChartOfAccount] coa ON coa.ChartOfAccountId=c.ChartOfAccountId 
+WHERE c.ClaimId = @ClaimId;</value>
+  </data>
+  <data name="GetClaimLinkDataByTransactionIdAndClaimId" xml:space="preserve">
+    <value>-- verify claim was linked ok to this deposit on table [ClaimBankAccountTransaction] and BankAccountTransactionAllocation associated to the BankAccountTransactionId of the deposit
+SELECT
+ ba.BankAccountTransactionId, cbat.BankAccountTransactionAllocationId, 
+ cbat.ClaimId,cast(cl.ClaimNumber as varchar (10))+''+COALESCE(cl.ClaimNumberSuffix,'') as ClaimNumber, 
+ p.DisplayName as Name, coa.Number as LinkCode, coa2.Number as ClaimCode, bata.Description, bata.IsNonCompensable, bata.Amount, [tcms].[GetClaimPaidAmount](cl.ClaimId) [PaidAmount], cbat.IsDeleted
+ FROM BankAccountTransaction ba
+INNER JOIN [dbo].[BankAccountTransactionAllocation] bata ON bata.BankAccountTransactionId = ba.BankAccountTransactionId
+INNER JOIN [dbo].[ClaimBankAccountTransaction] cbat on cbat.BankAccountTransactionAllocationId = bata.BankAccountTransactionAllocationId
+INNER JOIN [dbo].[ChartOfAccount] coa ON coa.ChartOfAccountId = bata.ChartOfAccountId
+INNER JOIN [dbo].[Claim] cl ON cl.claimId = cbat.claimId
+INNER JOIN [dbo].[ChartOfAccount] coa2 ON coa2.ChartOfAccountId = cl.ChartOfAccountId
+LEFT OUTER JOIN dbo.Participation pn ON pn.ParticipationID = cl.CreditorParticipationId
+LEFT OUTER JOIN dbo.Participant p ON p.ParticipantId = pn.ParticipantId
+WHERE ba.BankAccountTransactionId = @TransactionId AND cl.ClaimId=@ClaimId
+AND bata.IsDeleted = 0</value>
+  </data>
+  <data name="GetClaimsByCaseId" xml:space="preserve">
+    <value>DECLARE @RC int;
+EXECUTE @RC = [TCMS].[ClaimsByCaseRetrieve] @CaseId;</value>
+  </data>
+  <data name="GetClaimsCountByCaseId" xml:space="preserve">
+    <value>SELECT COUNT(*) as ClaimsCount FROM [dbo].[Claim] WHERE CaseId=@CaseId</value>
+  </data>
+  <data name="getCodesListForAssets" xml:space="preserve">
+    <value>SELECT
+  C.ChartOfAccountId AS Id,
+  C.Number AS Number,
+  C.Name AS 'Description',
+  NULL AS ClaimClass,
+  NULL AS PaySequence
+ FROM dbo.ChartOfAccount C
+  JOIN dbo.ChartOfAccountChartOfAccountType COAT ON COAT.ChartOfAccountId = C.ChartOfAccountId
+  JOIN dbo.ChartOfAccountType T ON t.ChartOfAccountTypeId = COAT.ChartOfAccountTypeId
+  JOIN dbo.ChartOfAccountGroup G ON G.ChartOfAccountGroupId = T.ChartOfAccountGroupId
+  LEFT JOIN dbo.vw_ClaimClasses CC ON CC.ChartOfAccountId = C.ChartOfAccountId
+ WHERE G.ChartOfAccountGroupId = 4
+  AND T.ChartOfAccountTypeId = 17
+  AND C.IsDeleted = 0
+  AND C.IsActive = 1
+  AND T.IsDeleted = 0
+  AND G.IsDeleted = 0
+  AND T.Sequence = 1 
+  AND C.IsSeed = 1 -- For now, just always bring back the chapter 7 list. This will change in the future
+  AND ( C.ChartOfAccountId &lt;&gt; -1)
+ ORDER BY C.Number</value>
+  </data>
+  <data name="getDatesListForCurrentCaseId" xml:space="preserve">
+    <value>DECLARE @OfficeId INT, @CaseIdSet INT
+SET @OfficeId = 5
+SET @CaseIdSet = @caseId
+exec [tcms].[GetKeyDatesByCaseId] @OfficeId,@CaseIdSet</value>
+  </data>
+  <data name="getFilterCodesDefaultTextValue" xml:space="preserve">
+    <value>WITH q AS
+(
+	SELECT bta.ChartOfAccountId, COUNT('1') AS total
+	FROM dbo.BankAccountTransaction bt
+	INNER JOIN dbo.BankAccountTransactionAllocation bta
+	ON bt.BankAccountTransactionId = bta.BankAccountTransactionId
+	WHERE bta.ChartOfAccountId IS NOT NULL
+	GROUP BY bta.ChartOfAccountId
+)
+
+SELECT coa.Number + ' ' + coa.Name as "Code# and Name", '('+CONVERT(varchar(10), ISNULL(q.total, 0))+')' as 'Counter Total', coat.ChartOfAccountTypeId ,coa.ChartOfAccountId
+	FROM dbo.ChartOfAccount coa
+	JOIN dbo.ChartOfAccountChartOfAccountType coacoat 
+	ON coacoat.ChartOfAccountId = coa.ChartOfAccountId
+	JOIN dbo.ChartOfAccountType coat
+	ON coat.ChartOfAccountTypeId = coacoat.ChartOfAccountTypeId
+	LEFT JOIN q 
+	ON coa.ChartOfAccountId = q.ChartOfAccountId
+	WHERE --coat.ChartOfAccountGroupId = 8 -- 1099/W2 Flags
+	--AND (coat.ChartOfAccountTypeId = 24 --Miscellaneous
+	--OR 
+	(coat.ChartOfAccountTypeId = 25) --Miscellaneous Default
+	--AND coacoat.ChartOfAccountId = @chartOfAccountId
+	AND coa.OfficeId IS NULL
+	
+	ORDER BY coa.Number</value>
+  </data>
+  <data name="getGeneratedReportInfoForSpecificJobId" xml:space="preserve">
+    <value>select j.JobId as JobId,
+rq.ReportQueueId as QueueId,
+js.Name as JobStatus, r.Name,
+u.DisplayName as UserName,
+j.InsertedOn as Date
+from dbo.ReportQueue rq
+left join dbo.Job j
+on rq.JobId = j.JobId
+left join dbo.JobStatus js
+on j.JobStatusId = js.JobStatusId
+inner join dbo.Report r
+on rq.ReportId = r.ReportId
+left join dbo.[User] u
+on rq.UserId = u.UserID
+where rq.JobId = @jobId
+order by j.InsertedOn desc</value>
+  </data>
+  <data name="getGeneratedReportsInfoForSpecificFileName" xml:space="preserve">
+    <value>select j.JobId as JobId,
+rq.ReportQueueId as QueueId,
+js.Name as JobStatus, r.Name,
+u.DisplayName as UserName,
+j.InsertedOn as Date
+from dbo.ReportQueue rq
+left join dbo.Job j
+on rq.JobId = j.JobId
+left join dbo.JobStatus js
+on j.JobStatusId = js.JobStatusId
+inner join dbo.Report r
+on rq.ReportId = r.ReportId
+left join dbo.[User] u
+on rq.UserId = u.UserID
+where rq.JobId IS NOT NULL
+and r.Name = @fileName
+order by j.InsertedOn desc</value>
+  </data>
+  <data name="getKeyDatesModalListedItems" xml:space="preserve">
+    <value>SELECT 
+  AT.AppointmentTypeId AS AppointmentTypeId,
+  AT.DisplayName AS DateDisplayName
+ FROM AppointmentType AT
+ WHERE OfficeId IS NULL 
+ ORDER BY AT.DisplayName</value>
+  </data>
+  <data name="getLastGeneratedReportJobId" xml:space="preserve">
+    <value>select TOP 1 JobId from [dbo].Job order by InsertedOn desc</value>
+  </data>
+  <data name="GetNonClaimPayeeLinkDataByTransactionIdAndPayeeName" xml:space="preserve">
+    <value>SELECT bata.BankAccountTransactionId, bata.BankAccountTransactionAllocationId, bata.Payee as Name, coa.Number as Code, bata.Description, bata.IsNonCompensable, bata.Amount, bata.IsDeleted 
+FROM [dbo].[BankAccountTransactionAllocation] bata 
+INNER JOIN [dbo].[ChartOfAccount] coa ON coa.ChartOfAccountId = bata.ChartOfAccountId
+WHERE BankAccountTransactionId = @TransactionId AND Payee=@PayeeName
+AND BankAccountTransactionAllocationId NOT IN (SELECT BankAccountTransactionAllocationId FROM ClaimBankAccountTransaction)
+AND BankAccountTransactionAllocationId NOT IN (SELECT BankAccountTransactionAllocationId FROM AssetBankAccountTransaction)
+AND bata.IsDeleted = 0</value>
+  </data>
+  <data name="GetOfficeIdFromOfficeName" xml:space="preserve">
+    <value>SELECT OfficeId FROM [dbo].[Office] WHERE Name=@OfficeName</value>
+  </data>
+  <data name="GetOpenCasesCountByOfficeId" xml:space="preserve">
+    <value>SELECT COUNT(*) AS OpenCasesCount FROM[dbo].[Case] WHERE CaseStatusId = 2 AND OfficeId =(SELECT OfficeId FROM [dbo].[Office] WHERE OfficeCode=@OfficeCode);</value>
+  </data>
+  <data name="GetTransactionDetails" xml:space="preserve">
+    <value>SELECT bat.FullName as Name, bat.Amount, dbo.BankAccountTransactionUTCCode ( bat.BankAccountTransactionId ) AS UTCCode, ParticipantId FROM BankAccountTransaction bat WHERE BankAccountTransactionId = @TransactionId;</value>
+  </data>
+  <data name="GetTransactionPrintStatus" xml:space="preserve">
+    <value>SELECT PrintStatusId  FROM [dbo].[BankAccountTransactionPrintStatus] WHERE BankAccountTransactionId = @BankAccountTransactionId</value>
+  </data>
+  <data name="getTrusteeNamesFromOfficeId" xml:space="preserve">
+    <value>SELECT NameDescription FROM dbo.[Trustee] WHERE OfficeId = @officeId AND [Status] = 'Active' order by [Name]</value>
+  </data>
+  <data name="GetUTCSplitsDataByTransactionId" xml:space="preserve">
+    <value>SELECT bata.BankAccountTransactionId, bata.BankAccountTransactionAllocationId, bata.Payee as Name, bata.Description as AllocationDescription, coa.Number as Code, bata.IsNonCompensable, bata.Amount
+FROM [dbo].[BankAccountTransactionAllocation] bata 
+INNER JOIN [dbo].[ChartOfAccount] coa ON coa.ChartOfAccountId = bata.ChartOfAccountId
+WHERE BankAccountTransactionId = @TransactionId 
+AND bata.BankAccountTransactionAllocationId NOT IN (SELECT BankAccountTransactionAllocationId from ClaimBankAccountTransaction WHERE BankAccountTransactionId=@TransactionId)
+ORDER BY bata.BankAccountTransactionAllocationId ASC</value>
+  </data>
+  <data name="GetVerifiedValueForClaimById" xml:space="preserve">
+    <value>SELECT Verified FROM [dbo].[Claim] WHERE ClaimId = @ClaimId</value>
+  </data>
+  <data name="UpdateTransactionPrintStatus" xml:space="preserve">
+    <value>UPDATE [dbo].[BankAccountTransactionPrintStatus] SET PrintStatusId = @PrintStatus WHERE BankAccountTransactionId = @BankAccountTransactionId</value>
+  </data>
+  <data name="codesFilterDefaultSelecionShortFormat" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\SQLQueries\codesFilterDefaultSelecionShortFormat.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="codesFilterDefaultSelectionList" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\SQLQueries\codesFilterDefaultSelectionList.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="codesInDB" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\SQLQueries\codesInDB.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="defaultCodesFilterFromDB" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\SQLQueries\defaultCodesFilterFromDB.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="deleteTestReports" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\SQLQueries\deleteTestReports.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="forceFailReportToastMessage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\SQLQueries\forceFailReportToastMessage.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="getGeneratedReportsListInfo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\SQLQueries\getGeneratedReportsListInfo.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="printSettingsListForReports" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\SQLQueries\printSettingsListForReports.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="regenerateAsset1ForCase2391" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\SQLQueries\regenerateAsset1ForCase2391.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="regenerateAsset2ForCase2391" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\SQLQueries\regenerateAsset2ForCase2391.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="regenerateAsset3ForCase2391" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\SQLQueries\regenerateAsset3ForCase2391.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="regenerateAsset8ForCase1378" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\SQLQueries\regenerateAsset8ForCase1378.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="regenerateFailReport" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\SQLQueries\regenerateFailReport.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="regeneratePendingReport" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\SQLQueries\regeneratePendingReport.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="regenerateSuccessReport" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\SQLQueries\regenerateSuccessReport.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="ResetMissingTaxIdForTesting" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\SQLQueries\ResetMissingTaxIdForTesting.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="subCodesInDB" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\SQLQueries\subCodesInDB.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="triggerSUCCESSToastMessageForReports" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\SQLQueries\triggerSUCCESSToastMessageForReports.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="trusteesFilterOfficeId" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\SQLQueries\trusteesFilterOfficeId.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="_1024Characters" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\SQLQueries\1024Characters.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="_32000Characters" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\SQLQueries\32000Characters.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="_482Characters" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\SQLQueries\482Characters.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="_483Characters" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\SQLQueries\483Characters.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="_600Characters" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\SQLQueries\600Characters.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="getAssetLinkInfoOnDepositsLedger" xml:space="preserve">
+    <value>DECLARE @transactionIdFrank INT
+SET @transactionIdFrank = @transactionId
+SELECT
+      batal.[BankAccountTransactionAllocationId] AS 'BankAccountTransactionAllocationId',
+      batal.[Amount] AS 'Amount',
+      batal.[Payee] AS 'Payee',
+      batal.[Description] AS 'Description',
+      batal.[BankAccountTransactionAllocationTypeId] AS 'BankAccountTransactionAllocationTypeId',
+      batal.[BankAccountTransactionId] AS 'BankAccountTransactionId',
+      batal.[OfficeId] AS 'OfficeId',
+      ISNULL(batal.[ChartOfAccountId],-1) AS 'ChartOfAccountId',
+      ast.AssetId AS 'AssetId',
+      ast.AssetBankAccountTransactionId AS 'AssetBankAccountTransactionId',
+      ast.AssetLinkageTypeId AS 'AssetLinkageTypeId',
+      a.FullAdministratedDate AS 'FullAdministratedDate',
+      a.AssetNumber AS 'AssetNumber',
+      a.Name AS 'AssetName',
+      ISNULL(coa.Number,'') AS 'CodeNumber',
+      ISNULL(coa.Name,'') AS 'CodeName',
+      ISNULL(vw_arv.AssetRemainingValue,0) AS RemainingValue
+     FROM BankAccountTransactionAllocation batal
+     INNER JOIN AssetBankAccountTransaction ast
+       ON ast.BankAccountTransactionAllocationId = batal.BankAccountTransactionAllocationId
+     INNER JOIN Asset a 
+       ON a.AssetId = ast.AssetId
+     LEFT JOIN ChartOfAccount coa
+       ON coa.ChartOfAccountId = batal.[ChartOfAccountId]
+     LEFT JOIN dbo.vw_AssetRemainingValue vw_arv
+       ON a.AssetId = vw_arv.AssetId
+     WHERE batal.BankAccountTransactionId = @transactionIdFrank
+     AND batal.BankAccountTransactionAllocationTypeId = 2 and batal.IsDeleted = 0 and ast.IsDeleted = 0</value>
+  </data>
+  <data name="getDepositToEditSavedValues" xml:space="preserve">
+    <value>DECLARE @BankAccountTransactionId INT 
+SET @BankAccountTransactionId = @transactionId
+SELECT  
+  BAT.BankAccountTransactionId AS 'Id',
+  BAT.[SerialNumber] AS 'DepositSerial',
+  BAT.[FullName] AS 'ReceivedFrom',
+  BAT.[TransactionDescription] AS 'Description',
+  BAT.[TransactionDate] AS 'Date', 
+  BAT.[ClearedDate] AS 'ClearedDate', 
+  BAT.[Amount] AS 'NetDeposit',
+  BAT.[BankAccountId] AS 'BankAccountId',
+  BAT.[GrossSales] AS 'GrossSales',
+  BAT.[OfficeId] AS 'OfficeId',
+  BAT.[IsDeleted] AS 'IsDeleted',
+  
+  ISNULL(bata.[ChartOfAccountId],-1) AS 'Code',
+  ISNULL(bata.[ChartOfAccountSubNumberId],-1) AS 'ChartOfAccountSubNumberId',
+  bata.[BankAccountTransactionAllocationId] AS 'BankAccountTransactionAllocationId',
+
+  ISNULL(coa.Number,'') AS 'CodeNumber',
+  ISNULL(coa.Name,'') AS 'CodeName',
+  ISNULL(coasn.ChartOfAccountSubNumber,'') AS 'SubCodeNumber',
+  ISNULL(coasn.Name,'') AS 'SubCodeName',
+
+  tcms.BankAccountTransactionClaimLink (BAT.BankAccountTransactionId ) AS 'ClosingCost'
+  , CASE WHEN (tcms.BankAccountTransactionClaimLink (BAT.BankAccountTransactionId) = 'LINK')
+   THEN
+    CAST((
+     SELECT
+      batal.[BankAccountTransactionAllocationId] AS 'BankAccountTransactionAllocationId',
+      batal.[Amount] AS 'Amount',
+      batal.[ChartOfAccountId] AS 'ChartOfAccountId',
+      batal.[Payee] AS 'Payee',
+      batal.[Description] AS 'Description',      
+      batal.[BankAccountTransactionAllocationTypeId] AS 'BankAccountTransactionAllocationTypeId',
+      batal.[BankAccountTransactionId] AS 'BankAccountTransactionId',
+      batal.[OfficeId] AS 'OfficeId',
+      batal.[IsNonCompensable] AS 'IsNonCompensable',
+      batal.[IsAssetImbalanceAllocation] AS 'IsAssetImbalanceAllocation',
+      batal.[OtherPaymentToDebtor] AS 'OtherPaymentToDebtor',
+      cl.ClaimBankAccountTransactionId AS 'ClaimBankAccountTransactionId',
+      cl.ClaimId AS 'ClaimId'
+     FROM BankAccountTransactionAllocation batal
+     LEFT JOIN ClaimBankAccountTransaction cl
+       ON cl.BankAccountTransactionAllocationId = batal.BankAccountTransactionAllocationId
+     WHERE batal.BankAccountTransactionId = BAT.BankAccountTransactionId
+     AND batal.BankAccountTransactionAllocationTypeId = 3 and batal.IsDeleted = 0 and cl.IsDeleted = 0
+
+    FOR XML PATH('ClaimChild'), ROOT('ClaimChilds')) as XML)
+   ELSE
+    NULL
+  END 
+  AS ClosingCostChildXML
+
+  , [tcms].[BankAccountTransactionAssetLink] (BAT.BankAccountTransactionId ) AS 'AssetLink'
+  , CASE WHEN ([tcms].[BankAccountTransactionAssetLink](BAT.BankAccountTransactionId) = 'LINK')
+   THEN
+    CAST((
+     SELECT
+      batal.[BankAccountTransactionAllocationId] AS 'BankAccountTransactionAllocationId',
+      batal.[Amount] AS 'Amount',
+      batal.[Payee] AS 'Payee',
+      batal.[Description] AS 'Description',
+      batal.[BankAccountTransactionAllocationTypeId] AS 'BankAccountTransactionAllocationTypeId',
+      batal.[BankAccountTransactionId] AS 'BankAccountTransactionId',
+      batal.[OfficeId] AS 'OfficeId',
+      batal.[ChartOfAccountId] AS 'ChartOfAccountId',
+      ast.AssetId AS 'AssetId',
+      ast.AssetBankAccountTransactionId AS 'AssetBankAccountTransactionId',
+      ast.AssetLinkageTypeId AS 'AssetLinkageTypeId'
+     FROM BankAccountTransactionAllocation batal
+     INNER JOIN AssetBankAccountTransaction ast
+       ON ast.BankAccountTransactionAllocationId = batal.BankAccountTransactionAllocationId
+     WHERE batal.BankAccountTransactionId = BAT.BankAccountTransactionId
+     AND batal.BankAccountTransactionAllocationTypeId = 2 and batal.IsDeleted = 0 and ast.IsDeleted = 0
+
+    FOR XML PATH('AssetChild'), ROOT('AssetChilds')) as XML)
+   ELSE
+    NULL
+  END 
+  AS AssetLinkChildXML
+
+        FROM 
+            dbo.BankAccountTransaction AS BAT
+            LEFT JOIN dbo.BankAccountTransactionAllocation AS bata
+                ON bata.BankAccountTransactionId = bat.BankAccountTransactionId
+                AND bata.IsDeleted = 0
+                AND bata.BankAccountTransactionAllocationTypeId &lt;&gt; 6
+    AND tcms.BankAccountTransactionClaimLink (BAT.BankAccountTransactionId) &lt;&gt; 'LINK'
+    AND tcms.BankAccountTransactionAssetLink (BAT.BankAccountTransactionId) &lt;&gt; 'LINK'
+   LEFT JOIN dbo.ChartOfAccount coa
+    ON coa.ChartOfAccountId = bata.ChartOfAccountId
+    AND coa.IsDeleted = 0
+   LEFT JOIN dbo.ChartOfAccountSubNumber coasn
+    ON coasn.ChartOfAccountSubNumberId = bata.ChartOfAccountSubNumberId
+        WHERE 
+   BAT.BankAccountTransactionId = @BankAccountTransactionId
+            AND BAT.IsDeleted = 0</value>
+  </data>
+  <data name="regenerateDepositNumber1ForCaseId1960" xml:space="preserve">
+    <value>DECLARE @AssetLinks [tcms].[AssetBankAccountTransactionAllocationParameter] 
+DECLARE @ClosingCosts [tcms].[ClaimBankAccountTransactionAllocationParameter] 
+
+EXEC  [tcms].[UpdateDeposit]
+  @BankAccountTransactionId = 5352,
+  @BankAccountTransactionAllocationId = 0,
+  @Description = N'Robert Goren, ESQ',
+  @ClearedDate = '2014-10-30 15:36:23.6244520',
+  @GrossSales = 15000,
+  @Code = 26,
+  @ChartOfAccountSubNumberId = NULL,
+  @BankAccountTransactionAllocationTypeId = 2,
+  @OfficeId = 5,
+  @ModifiedByUserId = 1, 
+  @AssetLinks = @AssetLinks,
+  @ClosingCosts = @ClosingCosts</value>
+  </data>
+  <data name="regenerateDeposit1ForCaseId1378" xml:space="preserve">
+    <value>DECLARE @AssetLinks [tcms].[AssetBankAccountTransactionAllocationParameter] 
+DECLARE @ClosingCosts [tcms].[ClaimBankAccountTransactionAllocationParameter] 
+
+EXEC  [tcms].[UpdateDeposit]
+  @BankAccountTransactionId = 5210,
+  @BankAccountTransactionAllocationId = 5667,
+  @Description = N'JOHN WAYNE MYERS',
+  @ClearedDate = '2014-06-04 15:36:23.6244520',
+  @GrossSales = 23960.75,
+  @Code = 6,
+  @ChartOfAccountSubNumberId = NULL,
+  @BankAccountTransactionAllocationTypeId = 2,
+  @OfficeId = 5,
+  @ModifiedByUserId = 1, 
+  @AssetLinks = @AssetLinks,
+  @ClosingCosts = @ClosingCosts</value>
+  </data>
+  <data name="createDepositWithAllLinksForCaseId1960" xml:space="preserve">
+    <value>--DECLARING VARIABLES
+DECLARE 
+@BankAccountId INT = 210, 
+@BankAccountTransactionId INT = 0, 
+@BankAccountTransactionAllocationId1 INT = 0, 
+@BankAccountTransactionAllocationId2 INT = 0,
+@BankAccountTransactionAllocationId3 INT = 0, 
+@BankAccountTransactionAllocationId4 INT = 0,
+@AssetId1 INT = 19958,
+@AssetId2 INT = 19940,
+@ClaimId1 INT = 3302,
+@ClaimId2 INT = 3303
+
+--INSERTING DEPOSIT
+INSERT INTO [dbo].[BankAccountTransaction]
+           ([DistributionPaymentTypeId],[Compensable],[Amount],[FullName],[Address],[PassiveBankAccountRouting],[PassiveBankAcountNumber],[IsPendingStopPayment],
+     [PendingStopPaymentDate],[LinkStatus],[GrossSales],[IsSuppressFromTotal],[Sequence],[SerialNumber],[TransactionDescription],[Comments],[IsAssetImbalanceOk],
+     [ClearedDate],[ReversedDate],[CalculationMethod],[BankAccountTransactionSubTypeId],[BankAccountId],[BankAccountTransactionTypeId],[OfficeId],[IsDeleted]
+     ,[TransactionDate],[IsBackDated],[AbsoluteAmount],[ModifiedOn],[ParticipantId])
+     VALUES
+(0,0.00,2000.00,'Franco Test Asset 2',NULL,NULL,NULL,0,
+NULL,NULL,4000.00,0,NULL,9999,'Franco Test Asset DESC 2',NULL,0,
+'2017-05-19 00:00:00',NULL,'',14,@BankAccountId,5,5,0,
+'2016-11-25 11:31:52.0000000',0,2000.00,'2016-11-25',NULL)
+
+
+SELECT @BankAccountTransactionId = SCOPE_IDENTITY()
+
+--INSERTING ASSET LINKS
+INSERT INTO [dbo].[BankAccountTransactionAllocation]
+([Amount],[Payee],[Description],[WildCard],[Address],[Comments],[BankAccountTransactionAllocationTypeId],[BankAccountTransactionId],[OfficeId],[IsDeleted]
+,[IsNonCompensable],[IsAssetImbalanceAllocation],[ChartOfAccountId],[ChartOfAccountSubNumberId],[OtherPaymentToDebtor])
+VALUES (2000.00,'asdsd','',NULL,NULL,NULL,2,@BankAccountTransactionId,5,0,0,0,NULL,NULL,0)
+
+SELECT @BankAccountTransactionAllocationId1 = SCOPE_IDENTITY()
+
+INSERT INTO [dbo].[BankAccountTransactionAllocation]
+([Amount],[Payee],[Description],[WildCard],[Address],[Comments],[BankAccountTransactionAllocationTypeId],[BankAccountTransactionId],[OfficeId],[IsDeleted]
+,[IsNonCompensable],[IsAssetImbalanceAllocation],[ChartOfAccountId],[ChartOfAccountSubNumberId],[OtherPaymentToDebtor])
+VALUES (2000.00,'asdsd','',NULL,NULL,NULL,2,@BankAccountTransactionId,5,0,0,0,NULL,NULL,0)
+
+SELECT @BankAccountTransactionAllocationId2 = SCOPE_IDENTITY()
+
+--LINKING ASSET TO ALLOCATIONS
+INSERT INTO [dbo].[AssetBankAccountTransaction]
+           (ModifiedOn,ModifiedByUserId,AssetId,AssetScheduleId,AssetLinkageTypeId,BankAccountTransactionAllocationId,OfficeId,IsDeleted)
+     VALUES
+           ('2016-11-01 12:10:08.9330000',3,@AssetId1,NULL,0,@BankAccountTransactionAllocationId1,5,0),
+   ('2016-11-01 12:10:08.9330000',3,@AssetId2,NULL,0,@BankAccountTransactionAllocationId2,5,0)
+   
+
+--INSERTING CLAIM LINKS
+INSERT INTO [dbo].[BankAccountTransactionAllocation]
+([Amount],[Payee],[Description],[WildCard],[Address],[Comments],[BankAccountTransactionAllocationTypeId],[BankAccountTransactionId],[OfficeId],[IsDeleted]
+,[IsNonCompensable],[IsAssetImbalanceAllocation],[ChartOfAccountId],[ChartOfAccountSubNumberId],[OtherPaymentToDebtor])
+VALUES(-500.00,NULL,'Luis Claim Link Description 1',NULL,NULL,NULL,3,@BankAccountTransactionId,5,0,1,0,25,NULL,0)
+
+SELECT @BankAccountTransactionAllocationId3 = SCOPE_IDENTITY()
+
+INSERT INTO [dbo].[BankAccountTransactionAllocation]
+([Amount],[Payee],[Description],[WildCard],[Address],[Comments],[BankAccountTransactionAllocationTypeId],[BankAccountTransactionId],[OfficeId],[IsDeleted]
+,[IsNonCompensable],[IsAssetImbalanceAllocation],[ChartOfAccountId],[ChartOfAccountSubNumberId],[OtherPaymentToDebtor])
+VALUES(-500.00,NULL,'Luis Claim Link Description 1',NULL,NULL,NULL,3,@BankAccountTransactionId,5,0,0,0,108,NULL,0)
+
+SELECT @BankAccountTransactionAllocationId4 = SCOPE_IDENTITY()
+
+--INSERTING NON CLAIM PAYEES
+INSERT INTO [dbo].[BankAccountTransactionAllocation]
+([Amount],[Payee],[Description],[WildCard],[Address],[Comments],[BankAccountTransactionAllocationTypeId],[BankAccountTransactionId],[OfficeId],[IsDeleted]
+,[IsNonCompensable],[IsAssetImbalanceAllocation],[ChartOfAccountId],[ChartOfAccountSubNumberId],[OtherPaymentToDebtor])
+VALUES(-500.00,'Luis Non-Claim Payee 1','Luis Non-Claim Link Description 1',NULL,NULL,NULL,3,@BankAccountTransactionId,5,0,1,0,25,NULL,0)
+
+INSERT INTO [dbo].[BankAccountTransactionAllocation]
+([Amount],[Payee],[Description],[WildCard],[Address],[Comments],[BankAccountTransactionAllocationTypeId],[BankAccountTransactionId],[OfficeId],[IsDeleted]
+,[IsNonCompensable],[IsAssetImbalanceAllocation],[ChartOfAccountId],[ChartOfAccountSubNumberId],[OtherPaymentToDebtor])
+VALUES(-500.00,'Luis Non-Claim Payee 1','Luis Non-Claim Link Description 2',NULL,NULL,NULL,3,@BankAccountTransactionId,5,0,0,0,108,NULL,0)
+
+--LINKING CLAIMS TO ALLOCATIONS
+INSERT INTO [dbo].[ClaimBankAccountTransaction]
+           ([ClaimId]
+           ,[BankAccountTransactionAllocationId]
+           ,[IsDeleted])
+     VALUES
+           (@ClaimId1,@BankAccountTransactionAllocationId3,0),
+     (@ClaimId2,@BankAccountTransactionAllocationId4,0)</value>
+  </data>
+  <data name="deleteDepositAndLinksForTransactionId" xml:space="preserve">
+    <value>DECLARE @BankAccountTransactionId INT = @transactionIdFrank
+DELETE [AssetBankAccountTransaction]
+WHERE BankAccountTransactionAllocationId IN (SELECT BankAccountTransactionAllocationId FROM BankAccountTransactionAllocation WHERE BankAccountTransactionId = @BankAccountTransactionId)
+
+DELETE [ClaimBankAccountTransaction]
+WHERE BankAccountTransactionAllocationId IN (SELECT BankAccountTransactionAllocationId FROM BankAccountTransactionAllocation WHERE BankAccountTransactionId = @BankAccountTransactionId)
+
+DELETE BankAccountTransactionAllocation WHERE BankAccountTransactionId = @BankAccountTransactionId
+
+DELETE BankAccountTransactionPrintLog WHERE BankAccountTransactionId = @BankAccountTransactionId
+
+DELETE BankAccountTransactionPrintStatus WHERE BankAccountTransactionId = @BankAccountTransactionId
+
+DELETE BankAccountTransaction WHERE BankAccountTransactionId = @BankAccountTransactionId</value>
+  </data>
+  <data name="getLastCreatedTransactionId" xml:space="preserve">
+    <value>select * from BankAccountTransaction
+where FullName = 'Franco Test Asset 2'</value>
+  </data>
+  <data name="getCodesAndSubCodesRelationList" xml:space="preserve">
+    <value>SELECT 
+coa.ChartOfAccountId AS IdCode,
+coa.Number AS NumberCode,
+coa.Name AS 'DescriptionCode',
+sub.ChartOfAccountSubNumberId AS IdSubcode,
+sub.ChartOfAccountSubNumber AS NumberSubCode,
+sub.Name AS 'DescriptionSubCode'
+FROM dbo.ChartOfAccount coa 
+JOIN dbo.ChartOfAccountChartOfAccountSubNumber joinTbl ON joinTbl.ChartOfAccountId = coa.ChartOfAccountId
+JOIN dbo.ChartOfAccountSubNumber sub ON sub.ChartOfAccountSubNumberId = joinTbl.ChartOfAccountSubNumberId 
+WHERE coa.OfficeId IS NULL AND sub.OfficeId IS NULL
+
+
+UNION
+
+SELECT 
+coa.ChartOfAccountId AS IdCode,
+coa.Number AS NumberCode,
+coa.Name AS 'DescriptionCode',NULL,NULL,NULL
+FROM dbo.ChartOfAccount coa 
+WHERE coa.OfficeId IS NULL
+AND coa.ChartOfAccountId NOT IN (SELECT 
+coa.ChartOfAccountId AS IdCode
+FROM dbo.ChartOfAccount coa 
+JOIN dbo.ChartOfAccountChartOfAccountSubNumber joinTbl ON joinTbl.ChartOfAccountId = coa.ChartOfAccountId
+JOIN dbo.ChartOfAccountSubNumber sub ON sub.ChartOfAccountSubNumberId = joinTbl.ChartOfAccountSubNumberId 
+WHERE coa.OfficeId IS NULL AND sub.OfficeId IS NULL)
+Order by coa.Number, sub.ChartOfAccountSubNumber</value>
+  </data>
+  <data name="DeleteAutomationCreatedTestParticipantsById" xml:space="preserve">
+    <value>DELETE FROM DBO.Appointment341Participation WHERE PARTICIPATIONID IN (SELECT PARTICIPATIONID FROM DBO.PARTICIPATION WHERE PARTICIPANTID IN (@PARTID))
+DELETE FROM DBO.PossibleParticipationRole WHERE PARTICIPANTID IN (@PARTID)
+DELETE FROM dbo.Address WHERE PARTICIPANTID IN (@PARTID)
+DELETE FROM DBO.PARTICIPATION WHERE PARTICIPANTID IN (@PARTID)
+DELETE FROM DBO.PARTICIPANT WHERE PARTICIPANTID IN (@PARTID)</value>
+  </data>
+  <data name="GetParticipantIdFromName" xml:space="preserve">
+    <value>SELECT ParticipantId
+  FROM [dbo].[Participant]
+  where DisplayName LIKE '%'+@ParticipantNameLike+'%'</value>
+  </data>
+  <data name="GetParticipantIdFromClaim" xml:space="preserve">
+    <value>Declare @TEMP Table (
+ClaimId INT,
+ClaimNumber VARCHAR(MAX),
+Suffix VARCHAR(MAX),
+ClaimedAmount DECIMAL,
+AllowedAmount DECIMAL,
+PaidToDate DECIMAL,
+BalanceDue DECIMAL,
+ClaimName VARCHAR(MAX),
+ClaimCode INT,
+CLaimType VARCHAR(MAX),
+ClaimCodeName VARCHAR(MAX),
+ClaimCodeId INT,
+ClaimBalance VARCHAR(MAX),
+ParticipantId INT,
+CreditorDisplayName VARCHAR(MAX),
+CreditorAddress VARCHAR(MAX))
+
+Insert @TEMP
+exec tcms.ClaimsToLinkByCase @CaseId,NULL,@OfficeId,NULL
+
+
+Select ParticipantId from @TEMP WHERE ClaimID = @ClaimId</value>
+  </data>
+  <data name="getLastGeneratedTransacionIdForCase1960" xml:space="preserve">
+    <value>SELECT TOP 1 bat.BankAccountTransactionId, bat.FullName 
+FROM dbo.BankAccountTransaction bat
+INNER JOIN dbo.BankAccount ba
+ON bat.BankAccountId = ba.BankAccountId
+where bat.BankAccountId = 210
+AND ba.CaseId = 1960
+AND bat.BankAccountTransactionId NOT IN (5750,5352)
+ORDER BY bat.BankAccountTransactionId desc</value>
+  </data>
+  <data name="getLastGeneratedTransacionIdForCase1378" xml:space="preserve">
+    <value>SELECT TOP 1 bat.BankAccountTransactionId, bat.FullName 
+FROM dbo.BankAccountTransaction bat
+INNER JOIN dbo.BankAccount ba
+ON bat.BankAccountId = ba.BankAccountId
+where bat.BankAccountId = 120
+AND ba.CaseId = 1378
+AND bat.BankAccountTransactionId NOT IN (5210,5211,5737)
+ORDER BY bat.BankAccountTransactionId desc</value>
+  </data>
+  <data name="getAssetLinksDataForTransactionsLedger" xml:space="preserve">
+    <value>SELECT
+      batal.[BankAccountTransactionAllocationId] AS 'BankAccountTransactionAllocationId',
+      batal.[Amount] AS 'Amount',
+      batal.[Payee] AS 'Payee',
+      batal.[Description] AS 'Description',
+      batal.[BankAccountTransactionAllocationTypeId] AS 'BankAccountTransactionAllocationTypeId',
+      batal.[BankAccountTransactionId] AS 'BankAccountTransactionId',
+      batal.[OfficeId] AS 'OfficeId',
+	  batal.IsDeleted,
+      ISNULL(batal.[ChartOfAccountId],-1) AS 'ChartOfAccountId',
+      ast.AssetId AS 'AssetId',
+      ast.AssetBankAccountTransactionId AS 'AssetBankAccountTransactionId',
+      ast.AssetLinkageTypeId AS 'AssetLinkageTypeId',
+      a.FullAdministratedDate AS 'FullAdministratedDate',
+      a.AssetNumber AS 'AssetNumber',
+      a.Name AS 'AssetName',
+      ISNULL(coa.Number,'') AS 'CodeNumber',
+      ISNULL(coa.Name,'') AS 'CodeName',
+      ISNULL(vw_arv.AssetRemainingValue,0) AS RemainingValue
+     FROM BankAccountTransactionAllocation batal
+     INNER JOIN AssetBankAccountTransaction ast
+       ON ast.BankAccountTransactionAllocationId = batal.BankAccountTransactionAllocationId
+     INNER JOIN Asset a 
+       ON a.AssetId = ast.AssetId
+     LEFT JOIN ChartOfAccount coa
+       ON coa.ChartOfAccountId = batal.[ChartOfAccountId]
+     LEFT JOIN dbo.vw_AssetRemainingValue vw_arv
+       ON a.AssetId = vw_arv.AssetId
+     WHERE batal.BankAccountTransactionId = @TransactionId
+	 and a.AssetId = @AssetId
+     AND batal.BankAccountTransactionAllocationTypeId = 2 and batal.IsDeleted = 0 and ast.IsDeleted = 0</value>
+  </data>
+  <data name="GetClaimsDetailsByCaseId" xml:space="preserve">
+    <value>SELECT  c.ClaimId,  c.CaseId,  p.DisplayName as CreditorName, isnull(isnull(cast(c.ClaimNumber as varchar (10)),'')+''+COALESCE(c.ClaimNumberSuffix,''),' ') as ClaimNumber, isnull(coa.Number,'') as Code, c.ClaimedAmount, 
+c.AllowedAmount, [tcms].[GetClaimPaidAmount](c.ClaimId) [PaidAmount], [tcms].[GetClaimBalanceDue](c.ClaimId) [BalanceAmount], c.ReservedAmount, c.TaxAdditionalDue as Interest, 
+(SELECT cs.ClaimStatus from ClaimStatus cs where cs.ClaimStatusId=c.ClaimStatusId) as Status, isnull(cl.ClaimClass,'Unknown') as ClaimClass,
+isnull((SELECT cc.ClaimCategory from ClaimCategory cc where cc.ClaimCategoryId=c.ClaimCategoryId),'') as Category, c.PaySequence
+FROM [dbo].[Claim] c
+LEFT JOIN [dbo].[ChartOfAccount] coa ON coa.ChartOfAccountId=c.ChartOfAccountId
+LEFT OUTER JOIN dbo.Participation pn ON pn.ParticipationID = c.CreditorParticipationId
+LEFT OUTER JOIN dbo.Participant p ON p.ParticipantId = pn.ParticipantId
+LEFT OUTER JOIN dbo.vw_ClaimClasses cl with ( noexpand ) ON cl.ChartOfAccountId = c.ChartOfAccountId
+WHERE c.CaseId = @CaseId
+AND c.IsDeleted=0
+ORDER BY  
+	c.ClaimNumber asc ,
+    Case 
+	When c.ClaimNumberSuffix IS null then ''
+	else LTRIM(RTRIM(c.ClaimNumberSuffix))
+	END asc ,
+	ISNULL(CAST(coa.Number AS INTEGER),0) asc</value>
+  </data>
+  <data name="GetClaimsCountByClassByCaseId" xml:space="preserve">
+    <value>SELECT isnull(clc.ClaimClassD,'Unknown') as ClaimClassTitle, count(*) as ClaimsCount FROM (select c.CaseId, cl.ClaimClass as ClaimClassD from Claim c LEFT OUTER JOIN dbo.vw_ClaimClasses cl with ( noexpand ) ON cl.ChartOfAccountId = c.ChartOfAccountId) AS clc WHERE clc.CaseId=@CaseId
+GROUP BY ClaimClassD
+ORDER BY CASE ClaimClassD
+                     WHEN 'Unknown' THEN 2
+                     WHEN 'Administrative' THEN 3
+                     WHEN 'Secured' THEN 4
+                     WHEN 'Priority'  THEN 5
+					 WHEN 'Unsecured' THEN 6
+                     ELSE 1
+       END</value>
+  </data>
+  <data name="GetClaimsSummaryByCaseRetrieve" xml:space="preserve">
+    <value>DECLARE @RC int;
+EXECUTE @RC =  [TCMS].[ClaimsSummaryByCaseRetrieve] @CaseId, @OfficeId;</value>
+  </data>
+  <data name="getNonChapter7FilterCodesList" xml:space="preserve">
+    <value>WITH TransactionCounter AS
+ (
+  SELECT bta.ChartOfAccountId, COUNT('1') AS total FROM dbo.BankAccountTransaction bt
+  INNER JOIN dbo.BankAccountTransactionAllocation bta
+   ON bt.BankAccountTransactionId = bta.BankAccountTransactionId
+  WHERE bta.ChartOfAccountId IS NOT NULL
+  GROUP BY bta.ChartOfAccountId
+ )
+
+ SELECT coa.Number +' '+ coa.Name as 'Case# and Name', coa.ChartOfAccountId, ISNULL(tc.total, 0) AS TotalCount
+ FROM dbo.ChartOfAccount coa
+  LEFT OUTER JOIN TransactionCounter tc ON tc.ChartOfAccountId = coa.ChartOfAccountId
+ WHERE 
+  coa.IsSeed = 0 AND coa.OfficeId = 5
+  AND coa.Number &lt;&gt; ''
+  AND coa.Name &lt;&gt; ''
+ ORDER BY coa.Number</value>
+  </data>
+  <data name="GetPast341MeetingsList" xml:space="preserve">
+    <value>declare @currentDate date = getDate();
+exec [tcms].[GetPastMeetings]@currentDate = @currentDate , @OfficeId = @OfficeId</value>
+  </data>
+  <data name="GetUpcoming341MeetingsList" xml:space="preserve">
+    <value>declare @currentDate date = getDate();
+exec [tcms].[GetUpcoming341Meetings]@currentDate = @currentDate , @OfficeId = @OfficeId;</value>
+  </data>
+  <data name="deleteAllTransactionsForCase1960" xml:space="preserve">
+    <value>DECLARE @BankAccountId INT = 210
+DELETE [AssetBankAccountTransaction]
+WHERE BankAccountTransactionAllocationId IN (SELECT BankAccountTransactionAllocationId FROM BankAccountTransactionAllocation WHERE BankAccountTransactionId IN 
+(SELECT BankAccountTransactionId FROM BankAccountTransaction WHERE BankAccountId = @BankAccountId AND BankAccountTransactionId NOT IN (5750,5352)))
+
+DELETE [ClaimBankAccountTransaction]
+WHERE BankAccountTransactionAllocationId IN (SELECT BankAccountTransactionAllocationId FROM BankAccountTransactionAllocation WHERE BankAccountTransactionId IN 
+(SELECT BankAccountTransactionId FROM BankAccountTransaction WHERE BankAccountId = @BankAccountId AND BankAccountTransactionId NOT IN (5750,5352)))
+
+DELETE BankAccountTransactionAllocation WHERE BankAccountTransactionId IN
+(SELECT BankAccountTransactionId FROM BankAccountTransaction WHERE BankAccountId = @BankAccountId AND BankAccountTransactionId NOT IN (5750,5352))
+
+DELETE BankAccountTransactionPrintLog WHERE BankAccountTransactionId IN
+(SELECT BankAccountTransactionId FROM BankAccountTransaction WHERE BankAccountId = @BankAccountId AND BankAccountTransactionId NOT IN (5750,5352))
+
+DELETE BankAccountTransactionPrintStatus WHERE BankAccountTransactionId IN 
+(SELECT BankAccountTransactionId FROM BankAccountTransaction WHERE BankAccountId = @BankAccountId AND BankAccountTransactionId NOT IN (5750,5352))
+
+DELETE BankAccountTransaction WHERE BankAccountTransactionId IN
+(SELECT BankAccountTransactionId FROM BankAccountTransaction WHERE BankAccountId = @BankAccountId AND BankAccountTransactionId NOT IN (5750,5352))</value>
+  </data>
+  <data name="GetTransactionsListForFirstActiveBankAccount" xml:space="preserve">
+    <value>DECLARE @BankAccountId INT;
+SET @BankAccountId = (SELECT TOP 1 ba.BankAccountId FROM BankAccount ba WHERE ba.CaseId=@CaseId and ba.IsDeleted = 0 and ba.BankAccountStatusId NOT IN(2,3))
+DECLARE @RC int;
+EXECUTE @RC = [TCMS].[GetBankAccountTransactions] @BankAccountId, @OfficeId;</value>
+  </data>
+  <data name="GetOfficeIdFromOfficeCode" xml:space="preserve">
+    <value>SELECT OfficeId FROM [dbo].[Office] WHERE OfficeCode=@OfficeCode</value>
+  </data>
+  <data name="DeleteAutomationCreatedTestParticipantsByName" xml:space="preserve">
+    <value>DELETE FROM DBO.Appointment341Participation WHERE PARTICIPATIONID IN (SELECT ParticipantId FROM [dbo].[Participant] where DisplayName LIKE '%'+@ParticipantNameLike+'%')
+DELETE FROM DBO.PossibleParticipationRole WHERE PARTICIPANTID IN (SELECT ParticipantId FROM [dbo].[Participant] where DisplayName LIKE '%'+@ParticipantNameLike+'%')
+DELETE FROM dbo.Address WHERE PARTICIPANTID IN (SELECT ParticipantId FROM [dbo].[Participant] where DisplayName LIKE '%'+@ParticipantNameLike+'%')
+DELETE FROM DBO.PARTICIPATION WHERE PARTICIPANTID IN (SELECT ParticipantId FROM [dbo].[Participant] where DisplayName LIKE '%'+@ParticipantNameLike+'%')
+DELETE FROM DBO.PARTICIPANT WHERE PARTICIPANTID IN (SELECT ParticipantId FROM [dbo].[Participant] where DisplayName LIKE '%'+@ParticipantNameLike+'%')</value>
+  </data>
+  <data name="getCasesInfoOnSequenceCard" xml:space="preserve">
+    <value>declare @startDate datetime = @StartTimeFromUI
+declare @endDate datetime = @EndTimeFromUI
+exec [tcms].[GetCasesByMeeting341Date] @startDate, @endDate, @OfficeId</value>
+  </data>
+  <data name="probandoFechas" xml:space="preserve">
+    <value>declare @startDate datetime =@StartTimeFromUI;
+declare @endDate datetime =@EndTimeFromUI;
+declare @OfficeId int = 5;
+exec [tcms].[GetCasesByMeeting341Date]@startDate, @endDate, @OfficeId = 5;</value>
+  </data>
+  <data name="DeleteNoteTemplate" xml:space="preserve">
+    <value>DELETE FROM dbo.OneClickNote WHERE Label=@NoteLabel AND Content=@NoteText AND OfficeId=@OfficeId</value>
+  </data>
+  <data name="Get341NoteByCaseIdAndOffice" xml:space="preserve">
+    <value>SELECT  TOP 1 cas.CaseId, cas.CaseNumber, app.AppointmentId, app.Appointment341TypeId,
+		   app.Appointment341Id, app.Note , app.FormattedNote 
+	FROM dbo.[case] cas
+		 INNER JOIN dbo.vw_a341 vw_341
+		 ON vw_341.CaseId = cas.CaseId
+		 INNER JOIN [dbo].[Appointment341] app
+		 ON app.AppointmentId = vw_341.AppointmentId
+	WHERE 
+	   app.IsDeleted = 0
+	  AND cas.caseId = @CaseId
+	  AND cas.OfficeId = @OfficeId
+	ORDER BY CASE app.Appointment341TypeId 
+				WHEN 2 THEN 1
+				WHEN 1 THEN 2
+				WHEN 3 THEN 3
+				ELSE 4
+				END</value>
+  </data>
+  <data name="InsertNoteTemplate" xml:space="preserve">
+    <value>INSERT INTO dbo.OneClickNote (OneClickNoteTypeId, Label, Content, OfficeId, TrusteeId, InsertedOn, InsertedByUserId, ModifiedOn, ModifiedByUserId, IsDeleted)
+VALUES (1,@NoteLabel, @NoteText, @OfficeId, 5, getdate(), 3, getdate(), 3, 0)</value>
+  </data>
+  <data name="GetAllJudgesRetrieveSP" xml:space="preserve">
+    <value>DECLARE	@return_value int
+
+EXEC @return_value = [TCMS].[GetAllJudgesRetrieve]
+@caseId, @OfficeId</value>
+  </data>
+  <data name="GetDebtorAttorneyByPrediction" xml:space="preserve">
+    <value>DECLARE	@return_value int
+
+EXEC @return_value = [TCMS].[GetDebtorAttorneyByPrediction]
+@Prediction, @OfficeId</value>
+  </data>
+  <data name="DeleteAllDSOClaimantsByCaseId" xml:space="preserve">
+    <value>update dbo.DsoClaimant 
+set isdeleted = 1
+where caseid = @CaseId
+and officeid = @OfficeId
+
+update dbo.task 
+set IsDeleted = 1 
+where taskid in (
+select taskid from dbo.DsoClaimantTask dct
+inner join dbo.dsoclaimant c on c.dsoclaimantid = dct.DsoClaimantId
+where c.caseid = @CaseId and c.officeid = @OfficeId
+)
+
+delete dbo.DsoClaimantTask 
+where dsoclaimantid in (select dsoclaimantid from dbo.DsoClaimant 
+where caseid = @CaseId
+and officeid = @OfficeId)
+
+delete dbo.casetask
+where taskid in (select taskid from dbo.DsoClaimantTask dct
+inner join dbo.dsoclaimant c on c.dsoclaimantid = dct.DsoClaimantId
+where c.caseid = @CaseId and c.officeid = @OfficeId)
+and caseid = @CaseId</value>
+  </data>
+  <data name="GetMeetingCaseDetailSP" xml:space="preserve">
+    <value>DECLARE	@return_value int
+
+EXEC	@return_value = [TCMS].[GetMeetingCaseDetail]
+		@caseId, @OfficeId, @AppointmentId</value>
+  </data>
+  <data name="GetMeetingStatusTypeSP" xml:space="preserve">
+    <value>DECLARE	@return_value int
+
+EXEC	@return_value = [TCMS].[GetMeetingStatusType]</value>
+  </data>
+  <data name="GetAppointment341ParticipationId" xml:space="preserve">
+    <value>select Appointment341ParticipationId from Appointment341Participation
+where ParticipationId = @ParticipantId</value>
+  </data>
+  <data name="GetAppointment341ParticipationStatesOfCurrentCase" xml:space="preserve">
+    <value>select Appointment341ParticipationId, Appeared, IdVerified,SsnVerified from Appointment341Participation
+where Appointment341ParticipationId = @Appointment341ParticipationId</value>
+  </data>
+  <data name="GetAllClaimantInfoByCaseId" xml:space="preserve">
+    <value>SELECT cl.*, ot.Name as ObligationName, usrInitial.DisplayName as InitialUsrName, usrDischarge.DisplayName as DischargeUsrName, da.State as DseaState
+FROM [dbo].[DsoClaimant] cl 
+INNER JOIN [dbo].[DsoObligationType] ot on ot.DsoObligationTypeId=cl.DsoObligationTypeId
+INNER JOIN [dbo].[User] usrInitial on usrInitial.UserID = cl.InitialTaskOwnerUserId
+INNER JOIN [dbo].[User] usrDischarge on usrDischarge.UserID = cl.DischargeTaskOwnerUserId
+INNER JOIN [dbo].[DsoAgency] da on da.DsoAgencyId = cl.DsoAgencyId
+WHERE cl.caseID = @CaseId
+AND cl.OfficeId=@OfficeId
+AND cl.IsDeleted=0;</value>
+  </data>
+  <data name="GetCaseEmployersByCaseId" xml:space="preserve">
+    <value>exec tcms.GetCaseEmployerInformation @CaseId , @OfficeId</value>
+  </data>
+  <data name="CreateDSOClaimantOnCase" xml:space="preserve">
+    <value>DECLARE @RC int
+DECLARE @ImportDsoClaimantId int = NULL
+DECLARE @Name nvarchar(100) = @NameParam
+DECLARE @Address nvarchar(300) = @AddressParam
+DECLARE @Phone nvarchar(30) = @PhoneParam
+DECLARE @SocialSecurityNumber nvarchar(11) = @SocialSecurityNumberParam
+DECLARE @DsoAgencyId int = @DsoAgencyIdParam
+DECLARE @DsoObligationTypeId int = @DsoObligationTypeIdParam
+DECLARE @CaseId int = @CaseIdParam
+DECLARE @IsDeleted bit = @IsDeletedParam
+DECLARE @OfficeId int = @OfficeIdParam
+DECLARE @InitialTaskOwnerUserId int = @InitialTaskOwnerUserIdParam
+DECLARE @DischargeTaskOwnerUserId int = @DischargeTaskOwnerUserIdParam
+
+-- TODO: Set parameter values here.
+
+EXECUTE @RC = [TCMS].[InsertDsoClaimant] 
+   @ImportDsoClaimantId
+  ,@Name
+  ,@Address
+  ,@Phone
+  ,@SocialSecurityNumber
+  ,@DsoAgencyId
+  ,@DsoObligationTypeId
+  ,@CaseId
+  ,@IsDeleted
+  ,@OfficeId
+  ,@InitialTaskOwnerUserId
+  ,@DischargeTaskOwnerUserId</value>
+  </data>
+  <data name="GetCaseDocumentsByCaseId" xml:space="preserve">
+    <value>DECLARE	@return_value int
+
+EXEC	@return_value = [TCMS].[GetCaseDocuments]
+		@CaseId,
+		@OfficeId,
+		@ParentFolderId
+
+SELECT	'Return Value' = @return_value</value>
+  </data>
+  <data name="GetCaseDocumentFoldersByCaseId" xml:space="preserve">
+    <value>DECLARE	@return_value int
+
+EXEC	@return_value = [TCMS].[GetCasefolders]
+		@CaseId,
+		@OfficeId,
+		@ParentFolderId
+
+SELECT	'Return Value' = @return_value</value>
+  </data>
+  <data name="GetCaseDocumentByCaseIdAndDocketNumber" xml:space="preserve">
+    <value>IF @ParentFolderId IS NULL
+	BEGIN
+		SET @ParentFolderId = 0
+	END
+
+	SELECT 
+		d.DocumentId, 
+		d.FileName, 
+		d.ModifiedOn, 
+		d.ModifiedByUserId, 
+		d.DocumentStatusTypeId, 
+		d.DocumentVersionId, 
+		d.FolderId,
+		CAST(
+			(SELECT dt.DocumentTagId,
+				dtt.Description
+			FROM dbo.DocumentTag dt
+			INNER JOIN dbo.DocumentTagType dtt
+			ON dt.DocumentTagTypeId = dtt.DocumentTagTypeId
+			WHERE dt.DocumentId = d.DocumentId
+			FOR XML PATH('Tag'), ROOT('DocumentTags')) AS XML
+		) AS DocumentTagsXML,
+		u.DisplayName AS ModifiedByUserDisplayName,
+		k.DocketNumber,
+		d.FileExtension
+	FROM dbo.Document d
+	INNER JOIN dbo.[User] u
+	on d.ModifiedByUserId = u.UserID
+	LEFT JOIN dbo.DocketDocument dd
+	ON d.DocumentId = dd.DocumentId
+	LEFT JOIN dbo.Docket k
+	ON dd.DocketId = k.DocketId
+	WHERE d.OfficeId = @OfficeId
+	AND d.CaseId = @CaseId
+	AND d.IsDeleted = 0
+	AND ISNULL(d.FolderId, 0) = @ParentFolderId
+	AND k.DocketNumber = @DocketNumber
+	ORDER BY k.DocketNumber, d.FileName</value>
+  </data>
+  <data name="GetDebtorAttorneyStateForCurrent341Case" xml:space="preserve">
+    <value>--Debtor Attorney State
+select 
+* 
+from 
+dbo.participation par
+inner join dbo.appointment341participation a341 on a341.participationid = par.participationid
+ where par.caseid= @caseId--caseid
+and par.participationtypeid = 29
+and a341.Appointment341Id = @DebtorAttorneyAppointment341Id -- appointment341id Col 29</value>
+  </data>
+  <data name="GetCaseDispositionTypeSP" xml:space="preserve">
+    <value>DECLARE	@return_value int
+
+EXEC	@return_value = [TCMS].[GetCaseDispositionType]
+	@caseId</value>
+  </data>
+  <data name="GetContinuedReasonComboOptions" xml:space="preserve">
+    <value>select * from dbo.Continued341Type
+where DisplayName != 'Unknown'</value>
+  </data>
+  <data name="GetNextFuture341MeetingDateSP" xml:space="preserve">
+    <value>DECLARE	@return_value int
+
+EXEC	@return_value = [TCMS].[GetNextFuture341MeetingDate]
+		@OfficeId,
+		@CurrentMeetingDate</value>
+  </data>
+  <data name="GetACaseWith341AppointmentAndDocsFolder" xml:space="preserve">
+    <value>-- Get cases with 341meeting appointments that have documents, get first upcoming dates
+SELECT TOP 1 appt.StartDateTime, cc.CoreCaseNumber 
+FROM [dbo].[Case] cc
+INNER JOIN CaseAppointment cappt ON cappt.CaseId = cc.CaseId
+INNER JOIN Appointment appt ON cappt.AppointmentId = appt.AppointmentId
+INNER JOIN Appointment341 appt341 ON appt341.AppointmentId = appt.AppointmentId
+WHERE appt.AppointmentTypeId = 33
+AND cc.CaseId IN (SELECT CaseId FROM Folder)
+AND appt341.Appointment341TypeId = 2
+AND cc.OfficeId = 5
+ORDER BY appt.StartDateTime DESC</value>
+  </data>
+  <data name="GetACaseWith341AppointmentAndDocuments" xml:space="preserve">
+    <value>-- Get cases with 341meeting appointments that have documents, get first upcoming dates
+SELECT TOP 1 appt.StartDateTime, cc.CoreCaseNumber 
+FROM [dbo].[Case] cc
+INNER JOIN CaseAppointment cappt ON cappt.CaseId = cc.CaseId
+INNER JOIN Appointment appt ON cappt.AppointmentId = appt.AppointmentId
+INNER JOIN Appointment341 appt341 ON appt341.AppointmentId = appt.AppointmentId
+WHERE appt.AppointmentTypeId = 33
+AND cc.CaseId IN (SELECT CaseId FROM Document)
+AND appt341.Appointment341TypeId = 2
+AND cc.OfficeId = @OfficeId
+ORDER BY appt.StartDateTime DESC</value>
+  </data>
+  <data name="GetDebtorEmployerByCaseId" xml:space="preserve">
+    <value>DECLARE @DebtorParticipationTypeId INT = 11;
+DECLARE @JointDebtorParticipationTypeId INT = 42;
+
+SELECT
+pt.DisplayName AS 'Name',
+a.Street AS 'Street',
+a.City AS 'City',
+a.State AS 'State',
+a.Zip AS 'ZipCode',
+CASE
+	WHEN p.ParticipationTypeId = 11
+	THEN 'Debtor Employer'
+	ELSE 'Joint Debtor Employer'
+END AS 'EmployerType'
+
+,pt.participantId 
+,ph.PhoneNumber
+,ea.Address
+FROM dbo.Participation p
+
+INNER JOIN dbo.Participant pt
+ON pt.ParticipantId = p.ParticipantId
+
+INNER JOIN dbo.Address a
+ON a.ParticipantId = p.ParticipantId
+AND a.OfficeId = @officeId
+
+left join dbo.Phone ph
+on ph.OfficeId = @OfficeId
+and ph.ParticipantId = pt.ParticipantId
+
+left join dbo.EmailAddress ea
+on ea.OfficeId = @officeId 
+and ea.ParticipantId = pt.ParticipantId
+
+WHERE p.CaseId = @caseId
+AND (p.ParticipationTypeId = @DebtorParticipationTypeId or p.ParticipationTypeId = @JointDebtorParticipationTypeId)
+and pt.IsDeleted = 0
+and p.ParticipationTypeId = 11</value>
+  </data>
+  <data name="GetEmployersByCaseId" xml:space="preserve">
+    <value>DECLARE @DebtorParticipationTypeId INT = 11;
+DECLARE @JointDebtorParticipationTypeId INT = 42;
+
+SELECT
+pt.DisplayName AS 'Name',
+a.Street AS 'Street',
+a.City AS 'City',
+a.State AS 'State',
+a.Zip AS 'ZipCode',
+CASE
+	WHEN p.ParticipationTypeId = 11
+	THEN 'Debtor Employer'
+	ELSE 'Joint Debtor Employer'
+END AS 'EmployerType'
+
+,pt.participantId 
+,ph.PhoneNumber
+,ea.Address
+FROM dbo.Participation p
+
+INNER JOIN dbo.Participant pt
+ON pt.ParticipantId = p.ParticipantId
+
+INNER JOIN dbo.Address a
+ON a.ParticipantId = p.ParticipantId
+AND a.OfficeId = @officeId
+
+left join dbo.Phone ph
+on ph.OfficeId = @OfficeId
+and ph.ParticipantId = pt.ParticipantId
+
+left join dbo.EmailAddress ea
+on ea.OfficeId = @officeId 
+and ea.ParticipantId = pt.ParticipantId
+
+WHERE p.CaseId = @caseId
+AND (p.ParticipationTypeId = @DebtorParticipationTypeId or p.ParticipationTypeId = @JointDebtorParticipationTypeId)
+and pt.IsDeleted = 0
+ 
+ORDER BY EmployerType ASC</value>
+  </data>
+  <data name="GetJointDebtorEmployerByCaseId" xml:space="preserve">
+    <value>DECLARE @DebtorParticipationTypeId INT = 11;
+DECLARE @JointDebtorParticipationTypeId INT = 42;
+
+SELECT
+pt.DisplayName AS 'Name',
+a.Street AS 'Street',
+a.City AS 'City',
+a.State AS 'State',
+a.Zip AS 'ZipCode',
+CASE
+	WHEN p.ParticipationTypeId = 11
+	THEN 'Debtor Employer'
+	ELSE 'Joint Debtor Employer'
+END AS 'EmployerType'
+
+,pt.participantId 
+,ph.PhoneNumber
+,ea.Address
+FROM dbo.Participation p
+
+INNER JOIN dbo.Participant pt
+ON pt.ParticipantId = p.ParticipantId
+
+INNER JOIN dbo.Address a
+ON a.ParticipantId = p.ParticipantId
+AND a.OfficeId = @officeId
+
+left join dbo.Phone ph
+on ph.OfficeId = @OfficeId
+and ph.ParticipantId = pt.ParticipantId
+
+left join dbo.EmailAddress ea
+on ea.OfficeId = @officeId 
+and ea.ParticipantId = pt.ParticipantId
+
+WHERE p.CaseId = @caseId
+AND (p.ParticipationTypeId = @DebtorParticipationTypeId or p.ParticipationTypeId = @JointDebtorParticipationTypeId)
+and pt.IsDeleted = 0
+and p.ParticipationTypeId = 42</value>
+  </data>
+  <data name="Create_Asset" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Data Scripts\Create Asset.sql;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="GetACoreCaseNumberForThisOffice" xml:space="preserve">
+    <value>SELECT top 1 CoreCaseNumber 
+FROM [dbo].[Case]
+WHERE OfficeId = @OfficeId
+AND CoreCaseNumber NOT IN('14-27526','0:000-XXX')</value>
+  </data>
+  <data name="GetCaseDetailSPByCoreCaseNumber" xml:space="preserve">
+    <value>DECLARE @return_value int
+DECLARE @CaseId int =(SELECT CaseId FROM [dbo].[Case] WHERE CoreCaseNumber=@CoreCaseNumber)
+EXEC @return_value = [TCMS].[GetCaseDetail]
+  @CaseId, @OfficeId</value>
+  </data>
+  <data name="GetCaseForAutomationToDeleteAssets" xml:space="preserve">
+    <value />
+  </data>
+  <data name="GetAssetIdFromName" xml:space="preserve">
+    <value>SELECT AssetId FROM Asset WHERE Name=@Name</value>
+  </data>
+  <data name="Create_Docket" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Data Scripts\Create Docket.sql;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="Create_Document" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Data Scripts\Create Document.sql;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="Delete_AssetsDocketsAndDocumentsByName" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Data Scripts\Delete AssetsDocketsAndDocuments.sql;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="GetDocketIdFromName" xml:space="preserve">
+    <value>SELECT DocketId FROM Docket WHERE DocketText=@Name</value>
+  </data>
+  <data name="GetDocumentIdFromFileName" xml:space="preserve">
+    <value>SELECT DocumentId FROM Document WHERE FileName=@Name</value>
+  </data>
+</root>

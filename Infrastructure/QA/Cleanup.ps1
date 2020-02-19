@@ -1,0 +1,1 @@
+﻿Get-ChildItem -Path C:\E2ETests\Unity-OUT -Include *.* -File -Recurse | foreach { $_.Delete() }

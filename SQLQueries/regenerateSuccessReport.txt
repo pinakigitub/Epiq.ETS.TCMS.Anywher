@@ -1,0 +1,21 @@
+DECLARE @ReportQueueParams [tcms].[ReportQueueParameter]
+
+INSERT INTO @ReportQueueParams VALUES
+(
+ 'Test_Report_Success',
+ 'doc',
+ 131,
+ 2340,
+ 3,
+ 5,
+ '2016-10-13 11:04:42',
+ NULL,
+ 3,
+ NULL,
+ NULL
+ )
+
+
+EXECUTE [tcms].[AddReportQueue] 
+   @ReportQueueParams
+

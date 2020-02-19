@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Epiq.ETS.TCMS.Anywhere.Testing.E2eTest</id>
+    <version>1.0.0</version>
+    <title>TCMS Testing E2E New</title>
+    <authors>Eqiq</authors>
+    <owners>Epiq</owners>
+    <licenseUrl>http://octopusdeploy.com/</licenseUrl>
+    <projectUrl>http://epiqsystems.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>TCMS Testing E2E</description>
+    <releaseNotes />
+    <copyright />
+    <language />
+  </metadata>
+  <files>
+    <file src="bin\Release\*.*" target="BIN" />
+    <file src="**" target="PROJ" />
+  </files>
+</package>

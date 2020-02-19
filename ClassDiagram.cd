@@ -1,0 +1,1171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features._341Meetings._341Meeting_Destination341ListFeature" Collapsed="true">
+    <Position X="115.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQIAAAAAAAAAQEAAAAAACAAAAwACAAAAAAAAAAAAQg=</HashCode>
+      <FileName>Features\341 Meetings\341Meetings-341 Destination.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features._341Meetings._341Meeting_SequenceBuilderFeature" Collapsed="true">
+    <Position X="108.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAAAAAAAAAAAAAEAAAAAACIAAEwACAAAAAAAAAAAAQg=</HashCode>
+      <FileName>Features\341 Meetings\341Meetings-341 Sequence.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features._341Meetings._341Meeting_AtTheMeeting_VerifyCaseInformationCardFeature" Collapsed="true">
+    <Position X="110.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EYAAAAAAAAACAAEAAAQAACAAAAgACAAAgAQAwAIABQg=</HashCode>
+      <FileName>Features\341 Meetings\341Meetings-341AtTheMeeting-VerifyCaseInformationCard.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features._341Meetings._341Meeting_341NotesFeature" Collapsed="true">
+    <Position X="106.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAEABAAAAIAAEIAABAACCgAAgATAgAAAgAAAAAAQw=</HashCode>
+      <FileName>Features\341 Meetings\341Meetings-341MeetingNotes.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features._341Meetings._341Meeting_Preparation_CaseInformationTabFeature" Collapsed="true">
+    <Position X="117.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EBAAAAAAAAAAAAEAAAAAACIAAAgACAAAAAAAAAAAAQg=</HashCode>
+      <FileName>Features\341 Meetings\341Meetings-341Preparation-CaseInformationTab.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features._341Meetings._341Meeting_Preparation_UpdateCaseInformationFeature" Collapsed="true">
+    <Position X="122.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAEgAEAAAAAACAAAAgACAAAAAAAAAAgARg=</HashCode>
+      <FileName>Features\341 Meetings\341Meetings-341Preparation-UpdateCaseInformation.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features._341Meetings._341Meeting_AtTheMeeting_CaseHeaderFeature" Collapsed="true">
+    <Position X="108.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAABAABYAAAEAAAAAACAAAEgACAIgAAAAACAAAQg=</HashCode>
+      <FileName>Features\341 Meetings\341Meetings-CaseHeader.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features._341Meetings._341Meeting_Preparation_DocumentsTabFeature" Collapsed="true">
+    <Position X="119" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAIAAAAAAAAAEAQAEAAKAAAAgACEgAAAAAAAAAAQg=</HashCode>
+      <FileName>Features\341 Meetings\341Meetings-Preparation-DocumentsTab.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features._341Meetings._341Meeting_Preparation_DSOTabFeature" Collapsed="true">
+    <Position X="120.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAECSEAAAAAACAAAAgACAAAEAAAAAAAEQg=</HashCode>
+      <FileName>Features\341 Meetings\341Meetings-Preparation-DSOTab.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features._341Meetings._341Meeting_AtTheMeetingLegendAreaFeature" Collapsed="true">
+    <Position X="112" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAAAAAAAEAAAAAACAAAAgACAAAAAgAAAAAAQg=</HashCode>
+      <FileName>Features\341 Meetings\341MeetingsList-At The Meeting Legends.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features._341Meetings._341Meeting_AtTheMeetingListFeature" Collapsed="true">
+    <Position X="113.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECAAQAAAAAAAAAEAAIAAACACAIgACAAAAQAAAAAAAQg=</HashCode>
+      <FileName>Features\341 Meetings\341MeetingsList-AtTheMeeting-List.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features._341Meetings._341Meeting_PreparationFeature" Collapsed="true">
+    <Position X="106.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAACIAAAAAAIAEAAAAAACgAAAgACAAAQAAABAAAAQg=</HashCode>
+      <FileName>Features\341 Meetings\341MeetingsList-Preparation.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.Assets.CaseAssets_EditAssetFeature" Collapsed="true">
+    <Position X="120.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQCgAAABAAAAwEgAAAAgKAQEsgAiAAAAAQAjQIKAQg=</HashCode>
+      <FileName>Features\Cases\Detail\Assets\CaseAssetsEditAsset.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.Assets.CaseDetail_AssetsForm_TabbingAndMoneyFieldFeature" Collapsed="true">
+    <Position X="122.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAEAAAAAACAAAAgACAAAAAAAAAAAAQg=</HashCode>
+      <FileName>Features\Cases\Detail\Assets\CaseAssetsForm.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.Assets.CaseDetail_AssetsListFeature" Collapsed="true">
+    <Position X="106.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAEAAAAAACAAAAgACAAAAAJAAAAAAQg=</HashCode>
+      <FileName>Features\Cases\Detail\Assets\CaseAssetsList.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.Assets.CaseAssets_NewAssetFeature" Collapsed="true">
+    <Position X="122.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAQAAAYAAAABABEmABQASCAABAiACCpIAACQCAMJEUg=</HashCode>
+      <FileName>Features\Cases\Detail\Assets\CaseAssetsNewAsset.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.Assets.CaseDetail_Assets_SummaryFeature" Collapsed="true">
+    <Position X="120.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAEAAAAAACAABAgACAAAAAAAAAAAAQg=</HashCode>
+      <FileName>Features\Cases\Detail\Assets\CaseAssetsSummary.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.Banking.CaseDetail_Banking_AddAllTransactionsBasicsFeature" Collapsed="true">
+    <Position X="108.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EBAAgAAAAAAAAAEAAAAAACAAAAgACAAEAAAAAAAAAQg=</HashCode>
+      <FileName>Features\Cases\Detail\Banking\CaseBankingAddTransactionsBasics.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.Banking.CaseDetail_Banking_AddTransactionSerialNumberAutocompleteFeature" Collapsed="true">
+    <Position X="117.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAEIAAAAACAAAAgACAAAEAAAAAAAAQg=</HashCode>
+      <FileName>Features\Cases\Detail\Banking\CaseBankingAddTrxSerialNumberAuto.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.Banking.CaseDetail_Banking_CheckAndDepositsTabbingAndMoneyFieldsFeature" Collapsed="true">
+    <Position X="119" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAEAAAAAACAAAAgACAAAAAAAAAAAAQg=</HashCode>
+      <FileName>Features\Cases\Detail\Banking\CaseBankingCheck_DepositsTabbing_MoneyFields.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.Banking.Checks.CaseDetail_Banking_Checks_PayToTheOrderOfIsPredictiveFeature" Collapsed="true">
+    <Position X="120.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UAAAAAAAAAAAAAEAAAAAACAAABgACAAAAAAAAAEAAQg=</HashCode>
+      <FileName>Features\Cases\Detail\Banking\Checks\CaseBanking_Check_PayToPredictive.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.Banking.Checks.CaseDetail_Banking_ChecksLinkClaimsFeature" Collapsed="true">
+    <Position X="122.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MCAIAAAAgAEAFAFgEgggQCAAAAgACACAAADAAAEAAQg=</HashCode>
+      <FileName>Features\Cases\Detail\Banking\Checks\CaseBanking_CheckClaimsLinks.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.Banking.Checks.CaseBanking_Checks_NewCheckFeature" Collapsed="true">
+    <Position X="106.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAQAAAEEAAQIAQCAAAAgACAAAAAAAgAAAAQg=</HashCode>
+      <FileName>Features\Cases\Detail\Banking\Checks\CaseBanking_Checks_NewCheck.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.Banking.Checks.CaseDetail_Banking_AddCheckValidations_EnterKeyFeature" Collapsed="true">
+    <Position X="110.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAgAAAEAAAAAACAAAAgACAAAAAAAAAAAAQg=</HashCode>
+      <FileName>Features\Cases\Detail\Banking\Checks\CaseBankingAddCheckValidations-EnterKey.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.Banking.Checks.CaseDetail_Banking_AddCheckValidations_SaveButtonFeature" Collapsed="true">
+    <Position X="112" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABAAAAAAAAAAgEAAAAAACAAAAgACAAAAAAAAAAAAQg=</HashCode>
+      <FileName>Features\Cases\Detail\Banking\Checks\CaseBankingAddCheckValidations-SaveButton.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.Banking.Checks.CaseDetail_Banking_ChecksSplitUTCFeature" Collapsed="true">
+    <Position X="106.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAIgAAAAAAAAAEAAAEAACQGAEgADAAAAAAAAAAAAYg=</HashCode>
+      <FileName>Features\Cases\Detail\Banking\Checks\CaseDetailBankingAddUTCSplit.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.Banking.Deposits.CaseDetail_Banking_DepositClosingCosts_ClaimsLinksFeature" Collapsed="true">
+    <Position X="108.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgJEAAAAAAAQBAECAAABCCEAAAqAKAAAAAACAAAAARg=</HashCode>
+      <FileName>Features\Cases\Detail\Banking\Deposits\CaseBanking_DepositClosingCostsLinks.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.Banking.Deposits.CaseBanking_Deposits_AddAssetLinkFeature" Collapsed="true">
+    <Position X="108.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECCALAAACABAAAEGAAAAACAJAAhCiFACAAAAAAAAQQg=</HashCode>
+      <FileName>Features\Cases\Detail\Banking\Deposits\CaseBanking_Deposits_AddAssetLink.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.Banking.Deposits.CaseBanking_Deposits_EditDepositFeature" Collapsed="true">
+    <Position X="110.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAwAEAAAAAAAGAAAAAACAgAIgACAAAAAAAAAAAgQg=</HashCode>
+      <FileName>Features\Cases\Detail\Banking\Deposits\CaseBanking_Deposits_EditDeposit.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.Banking.Deposits.CaseBanking_Deposits_NewDepositFeature" Collapsed="true">
+    <Position X="112" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgAAAAAAAAAAAAEAAABAACQAEAgACAAAAAAAAAAAAQg=</HashCode>
+      <FileName>Features\Cases\Detail\Banking\Deposits\CaseBanking_Deposits_NewDeposit.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.Banking.Deposits.CaseDetail_Banking_AddDepositsValidations_EnterKeyFeature" Collapsed="true">
+    <Position X="113.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAEAAAAAACAAAAgACAAAABAAAAAAAQg=</HashCode>
+      <FileName>Features\Cases\Detail\Banking\Deposits\CaseBankingAddDepositValidations-EnterKey.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.Banking.Deposits.CaseDetail_Banking_AddDepositsValidations_SaveButtonFeature" Collapsed="true">
+    <Position X="115.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAAAAAAAAAEAAAAAACAAAAgACAAAAAAAAAAAAQg=</HashCode>
+      <FileName>Features\Cases\Detail\Banking\Deposits\CaseBankingAddDepositValidations-SaveButton.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.Banking.List.CaseDetail_Banking_TransactionsListBasicsFeature" Collapsed="true">
+    <Position X="112" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAAAAAIAAAAAEAAAAAACAAAAgACAAAACAAAAAAAQg=</HashCode>
+      <FileName>Features\Cases\Detail\Banking\List\CaseBankingTransactionsListBasics.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.Banking.MoreTransactions.CaseBanking_Transactions_AddAssetLinkFeature" Collapsed="true">
+    <Position X="113.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UIAQAgEAAAQIEAEAAQAAICAAAAgACgABAAgAIAAAAQw=</HashCode>
+      <FileName>Features\Cases\Detail\Banking\MoreTransactions\CaseBanking_Transactions_AddAssetLink.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.Banking.MoreTransactions.CaseBanking_Transactions_EditTransactionsFeature" Collapsed="true">
+    <Position X="115.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAADAAABAAAABgEBAAAABCAAAAghCACBAgQAAAgAAQg=</HashCode>
+      <FileName>Features\Cases\Detail\Banking\MoreTransactions\CaseBanking_Transactions_EditTransaction.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.Banking.MoreTransactions.CaseBanking_Transactions_NewTransactionFeature" Collapsed="true">
+    <Position X="117.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEAQABgFAAAAAAEAQEAAACAAATgACAgAAgAIQQAAAQg=</HashCode>
+      <FileName>Features\Cases\Detail\Banking\MoreTransactions\CaseBanking_Transactions_NewTransaction.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.Banking.Summary.CaseDetail_Banking_SummaryFeature" Collapsed="true">
+    <Position X="110.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAIAECAAAAACAAAAgACAAAAIAAAAAAAQg=</HashCode>
+      <FileName>Features\Cases\Detail\Banking\Summary\CaseBankingSummary.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.CaseDetail_DatesSectionFeature" Collapsed="true">
+    <Position X="106.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgAAAABAAAAAAAEgAAAAAiAAAAgACAIIAAAAAAAAAQg=</HashCode>
+      <FileName>Features\Cases\Detail\CaseDetail_DatesSection.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.CaseLevelDetail_NewHeaderDetailsFeature" Collapsed="true">
+    <Position X="110.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEAAQABAQAAAAgEAICAgASAAAEgACAAAAAIAAAAAAQg=</HashCode>
+      <FileName>Features\Cases\Detail\CaseDetail_NewHeaderDetails.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.CaseDetail_HeaderFeature" Collapsed="true">
+    <Position X="108.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAEAAABAACAgAAgACBAAAAAAAAAAAQg=</HashCode>
+      <FileName>Features\Cases\Detail\CaseDetailHeader.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.Claims.CaseDetail_Claim_ClaimsEditFeature" Collapsed="true">
+    <Position X="117.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAQEAAIAAACAAAAgACAAAAAAAAQAAGQw=</HashCode>
+      <FileName>Features\Cases\Detail\Claims\CaseClaimsEdit.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.Claims.CaseDetail_ClaimsListCAFFeature" Collapsed="true">
+    <Position X="120.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAgAEAAAAEACAIAAgACAAAAAAAAAAAAQg=</HashCode>
+      <FileName>Features\Cases\Detail\Claims\CaseClaimsList.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.Claims.CaseDetail_Claim_ClaimsNewFeature" Collapsed="true">
+    <Position X="119" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAgBAAEBAAgAQQEAAAsAAbwAAAgAGAACiACAAAAAoYk=</HashCode>
+      <FileName>Features\Cases\Detail\Claims\CaseClaimsNew.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.Claims.CaseDetail_ClaimsSummaryFeature" Collapsed="true">
+    <Position X="122.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAAAIAAAAAAAAAEAAABAACAAAAgACAAAAAAAAAAAAQg=</HashCode>
+      <FileName>Features\Cases\Detail\Claims\CaseClaimsSummary.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.Notes.CaseDetail_CaseOfficeNotesFeature" Collapsed="true">
+    <Position X="115.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAABEAAAAAQQAQEAACAAACABAAgICAiABAAIAAAgAYo=</HashCode>
+      <FileName>Features\Cases\Detail\Notes\CaseOfficeNotes.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.Detail.Notes.CaseDetail_CaseNotesTrusteesFeature" Collapsed="true">
+    <Position X="113.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAgAAAAAAAAAAEAAAACACAAAFggCAAAAAAAAAgABQk=</HashCode>
+      <FileName>Features\Cases\Detail\Notes\CaseTrusteesNotes.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.List.CaseListFeature" Collapsed="true">
+    <Position X="113.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAgAAAAAEBAAAAAKAAAEgACAAAgAIAAAAAQQg=</HashCode>
+      <FileName>Features\Cases\List\CaseList.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Cases.List.CaseList_SearchFeature" Collapsed="true">
+    <Position X="112" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACIIAAAAKAAAAEAAgABQCAAAFgACBAAAAQIAAkAiQo=</HashCode>
+      <FileName>Features\Cases\List\CaseListSearch.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Common.ApplicationBarAndNavigationFeature" Collapsed="true">
+    <Position X="110.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAEAAAAAAAEAEAAAAAACAAAAgACAAAAAAAAAAAAQg=</HashCode>
+      <FileName>Features\Common\CommonRegions.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Common.ContactEpiqFeature" Collapsed="true">
+    <Position X="106.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAEQAAAAACAAAAgACAAAAAAAAAAAAQg=</HashCode>
+      <FileName>Features\Common\ContactEpiq.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Common.RolesAndPermissions_RolesFeature" Collapsed="true">
+    <Position X="120.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAEAAAAAACAAAAgACAAAAAAAAAAAAQg=</HashCode>
+      <FileName>Features\Common\RolesAndPermissions.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Common.UniversalSearchStickyBarFeature" Collapsed="true">
+    <Position X="110.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAgAAAIAAQAAABEAgAAAICAAAAgACAAAAAAgAAAAQQg=</HashCode>
+      <FileName>Features\Common\StickyUniversalSearch.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Dashboard.DashboardFeature" Collapsed="true">
+    <Position X="110.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAQAAAAAAAAEAAAAAACAAAAgACAAAAAAAAAAAAQg=</HashCode>
+      <FileName>Features\Dashboard\Dashboard.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Dashboard.UniversalSearchOnDashboardFeature" Collapsed="true">
+    <Position X="108.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAgAAAgAAAEEAAAAACCAAAAgACAABAAAAAAAAAQg=</HashCode>
+      <FileName>Features\Dashboard\DashboardUniversalSearch.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Features.Reports.CoreReports.CoreReports_TaxRelatedFeature" Collapsed="true">
+    <Position X="108.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>uAkYABIAQAAACAEEoAA0IKAADAgBGICACAQyAASIARg=</HashCode>
+      <FileName>Features\Reports\CoreReports\CoreReports_TaxRelated.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Properties.Resources" Collapsed="true">
+    <Position X="119" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAkngGgI8IhxGurYABQhEFEGDaGETEC3HNoaZYYO/Kg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Properties.Settings" Collapsed="true">
+    <Position X="122.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Core.MissingElementException" Collapsed="true">
+    <Position X="115.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Test Framework\Core\Exceptions\MissingElementException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Core.TestsLogger" Collapsed="true">
+    <Position X="106.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAACAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Test Framework\Core\TestsLogger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Core.EditAssetsPageStepDefinitions" Collapsed="true">
+    <Position X="77.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACEEAAAQAAAQAAAAAAAACAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Test Framework\Steps\Cases\Detail\Assets\CaseAssetsEditAssetSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Core.NewAssetsPageStepDefinitions" Collapsed="true">
+    <Position X="81.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJAgQAQEQAIAQQIGRkn4pCAAAKA0ChIAgiJA8GBKAWM=</HashCode>
+      <FileName>Test Framework\Steps\Cases\Detail\Assets\CaseAssetsNewAssetSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Core.BankingPageDeposits" Collapsed="true">
+    <Position X="88.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QIGAWEAgBYKgAUhAQJC0AAAAIFCAhAIICxJUkACAAQg=</HashCode>
+      <FileName>Test Framework\Steps\Cases\Detail\Banking\CaseDetail_Banking_DepositsAddAssetLinkSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Core.CaseDetailPage_CommonSteps" Collapsed="true">
+    <Position X="93" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQggIABAIAAEEIAAAAAAAAAAAAEAAgQAAQAAQAAQAGQ=</HashCode>
+      <FileName>Test Framework\Steps\Cases\Detail\CaseDetailPage_CommonSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Core.CommonStepsNew" Collapsed="true">
+    <Position X="97.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQEAAAhCAIgBgICYIAABAAgAEAACCAABBoAAEQAAAAA=</HashCode>
+      <FileName>Test Framework\Steps\Common\CommonStepsNew.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Core.DashboardPageSteps" Collapsed="true">
+    <Position X="102" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Test Framework\Steps\Dashboard\DashboardPageSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Pages.PageObject" Collapsed="true">
+    <Position X="27.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEDgEh4BIEAIBEEACCAAoiiAQAAAiAAgCIAABsACAoQ=</HashCode>
+      <FileName>Test Framework\Core\PageObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Pages.Link" Collapsed="true">
+    <Position X="110.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAACAAAAAA=</HashCode>
+      <FileName>Test Framework\Pages\Common\Link.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Pages.DashboardPage" Collapsed="true">
+    <Position X="27.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAgBIBAAREAAAgEAEAAAAgAokEAAEAoAEAABDA=</HashCode>
+      <FileName>Test Framework\Pages\Dashboard\DashboardPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Pages.LoginPage" Collapsed="true">
+    <Position X="29.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBEASIDAABgAYQwAWAAABBAECAgAGgCAARCAwAAAA=</HashCode>
+      <FileName>Test Framework\Pages\Login\LoginPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.StepBase" Collapsed="true">
+    <Position X="53.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGAHAAACEAgEAAAUAAgEACAEAAIAAAAAgAAgAAABQI=</HashCode>
+      <FileName>Test Framework\Core\StepBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.TestFramework.LoginFeature" Collapsed="true">
+    <Position X="112" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAIgAgACAgEAAAAAACAAAAgQCEYAAAAAAAAAAQg=</HashCode>
+      <FileName>Test Framework\Login.feature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Meeting341.DateMeetingData" Collapsed="true">
+    <Position X="112" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACDAAAAAIAAAAAAAAAAEAAAQAAAAAAAAABgAAAAAAAA=</HashCode>
+      <FileName>Test Framework\Pages\341 Meeting\DateMeetingData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Meeting341.DocumentRowData" Collapsed="true">
+    <Position X="122.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAUAAACAAAAAAlAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Test Framework\Pages\341 Meeting\DocumentRowData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Meeting341.DSOClaimantRowData" Collapsed="true">
+    <Position X="106.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAACAAAAAAAAAAAAQAEAAACAICEAIAJAAACIQ=</HashCode>
+      <FileName>Test Framework\Pages\341 Meeting\DSOClaimantRowData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Meeting341.FolderRowData" Collapsed="true">
+    <Position X="108.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Test Framework\Pages\341 Meeting\FolderRowData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Meeting341.Meeting341CaseData" Collapsed="true">
+    <Position X="113.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAABAQAAQAAAAEAAAAAAIAFAAgQAEAAAARAAAQQ=</HashCode>
+      <FileName>Test Framework\Pages\341 Meeting\Meeting341CaseInformation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Meeting341.Meeting341MeetingManager_DocumentsTab" Collapsed="true">
+    <Position X="45.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gEAZAAAxBAKBJAAKAIKAgAIAAgSYAoKAEHQQAEAFAIM=</HashCode>
+      <FileName>Test Framework\Pages\341 Meeting\Meeting341MeetingManager_DocumentsTab.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Meeting341.PrizmDocsPage" Collapsed="true">
+    <Position X="52.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAIQQQAAAAAAAABQAAQAgQwAAAAAAAAAgA=</HashCode>
+      <FileName>Test Framework\Pages\341 Meeting\PrizmDocsPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Meeting341.Meeting341ListSteps" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAoAAmQAACAAAAAACAAAAACAAwICgIIIgAAEAAA=</HashCode>
+      <FileName>Test Framework\Steps\341 Meetings\341Meeting-341DestinationSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Meeting341.Meeting341AtTheMeetingCaseHeaderSteps" Collapsed="true">
+    <Position X="68.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAGGCgAIAQAAgAgADAAEAQSAQABCAAQAAABAEA=</HashCode>
+      <FileName>Test Framework\Steps\341 Meetings\341Meeting_AtTheMeetingCaseHeaderSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Meeting341.Meeting341AtTheMeetingCaseInfoSteps" Collapsed="true">
+    <Position X="70.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAABA=</HashCode>
+      <FileName>Test Framework\Steps\341 Meetings\341Meeting_AtTheMeetingCaseInfoSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Meeting341.Meeting341_AtTheMeetingSteps" Collapsed="true">
+    <Position X="72.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAQAAAAAA=</HashCode>
+      <FileName>Test Framework\Steps\341 Meetings\341Meeting_AtTheMeetingSteps .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Meeting341.Meeting341_Preparation_DocumentsTabSteps" Collapsed="true">
+    <Position X="27.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQEAgAAACAAQAABAAAIAAAgAAAEBwAAEAEAAAAAAAQA=</HashCode>
+      <FileName>Test Framework\Steps\341 Meetings\341Meeting_Preparation_DocumentsTabSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Meeting341.Meeting341_Preparation_DSOTabSteps" Collapsed="true">
+    <Position X="39" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAAALACAAAAAIQBhBIAAAAAEEAAAAAEAEAASAAAA=</HashCode>
+      <FileName>Test Framework\Steps\341 Meetings\341Meeting_Preparation_DSOTabSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Meeting341.Meeting341PreparationSequenceBuilderSteps" Collapsed="true">
+    <Position X="75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAQAAAAEgAAAAAAAAwAAABAAAAAAAAA=</HashCode>
+      <FileName>Test Framework\Steps\341 Meetings\341Meeting_PreparationSequenceBuilderSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Meeting341.Meeting341_PreparationSteps" Collapsed="true">
+    <Position X="50.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>PCCACJAA4MgABIACgCEhCgADAAwSAEREAAgAQAEAAII=</HashCode>
+      <FileName>Test Framework\Steps\341 Meetings\341Meeting_PreparationSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Meeting341.Meeting341PreparationUpdateCaseInformationSteps" Collapsed="true">
+    <Position X="84" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAIAAAAABABBAIAAAAAIAAAAAAAQAAAAAAAAAEAAA=</HashCode>
+      <FileName>Test Framework\Steps\341 Meetings\341Meeting_PreparationUpdateCaseInformationSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Pages.Meeting341.DSOClaimantModal" Collapsed="true">
+    <Position X="41" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>i4CMBuQAQAABEAECAVEAgAACgCEBAEAAgAAAAICCQBQ=</HashCode>
+      <FileName>Test Framework\Pages\341 Meeting\DSOClaimantModal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Pages.Meeting341.Meetings341Destination" Collapsed="true">
+    <Position X="43.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAHYCgIQpiACEIBAANEQCAAhIUEBJgAIBQAAAkACAI=</HashCode>
+      <FileName>Test Framework\Pages\341 Meeting\Meetings341Destination.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Pages.Meeting341.Meeting341MeetingManager" Collapsed="true">
+    <Position X="46.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEDsLIABdAiADghCAgBASQAOFGkFhkqKAgABChkAVAA=</HashCode>
+      <FileName>Test Framework\Pages\341 Meeting\Meetings341MeetingManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Pages.Meeting341.Meeting341MeetingManager_DSOTab" Collapsed="true">
+    <Position X="47.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIABAAgQAICABQAAAAECgkgACAAAABAQAMwAgBAAAAA=</HashCode>
+      <FileName>Test Framework\Pages\341 Meeting\Meetings341MeetingManager_DSOTab.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Pages.Cases.CaseData" Collapsed="true">
+    <Position X="119" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAEAAAAAAAAAEgAAAwAAAAAAAAAARAAAAAAAAA=</HashCode>
+      <FileName>Test Framework\Pages\Cases\CaseData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.TestFramework.Pages.Cases.Detail.AssetData" Collapsed="true">
+    <Position X="112" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABCAIAREGAAQIkQAEAgFBTAIAYAAELgAQAACAAgEEA=</HashCode>
+      <FileName>Test Framework\Pages\Cases\Detail\Assets\AssetData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.TestFramework.Pages.Cases.Detail.AssetsDetailTab" Collapsed="true">
+    <Position X="32" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAgEEE6CQACwTARgRgogtUAMEAAECAHAs24AAQELQAg=</HashCode>
+      <FileName>Test Framework\Pages\Cases\Detail\Assets\AssetsDetailTab.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.TestFramework.Pages.Cases.Detail.AssetLinkData" Collapsed="true">
+    <Position X="113.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAgACAAAEAgAACAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Test Framework\Pages\Cases\Detail\Banking\AssetLinkData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.TestFramework.Pages.Cases.Detail.BankingDetailTab" Collapsed="true">
+    <Position X="34.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iJJSl06BQTFhgMJQ2CUItUACMGOETBBhBW0oSE9jIAI=</HashCode>
+      <FileName>Test Framework\Pages\Cases\Detail\Banking\BankingDetailTab.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.TestFramework.Pages.Cases.Detail.ClaimLinksComponent" Collapsed="true">
+    <Position X="34.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>Wh1+Iz6Dbjhf5Cd8KUpCO55Unn6KgDyWHE/vCJAeHvc=</HashCode>
+      <FileName>Test Framework\Pages\Cases\Detail\Banking\ClaimLinksComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.TestFramework.Pages.Cases.Detail.NonClaimPayeeLinkData" Collapsed="true">
+    <Position X="117.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAgAAAAAAAgAASAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Test Framework\Pages\Cases\Detail\Banking\NonClaimPayeeLinkData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.TestFramework.Pages.Cases.Detail.TransactionForm" Collapsed="true">
+    <Position X="34.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>yikHVOQUS28zte8LpRnuXQfDtfsaI2cESHV3Ur/M6s0=</HashCode>
+      <FileName>Test Framework\Pages\Cases\Detail\Banking\TransactionForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.TestFramework.Pages.Cases.Detail.CaseDetailPage" Collapsed="true">
+    <Position X="35.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BciygAAUIxgDBEEoBFgUXQwApIGLgBgBgzAAQUECCIM=</HashCode>
+      <FileName>Test Framework\Pages\Cases\Detail\CaseDetailPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.TestFramework.Pages.Cases.Detail.ClaimForm" Collapsed="true">
+    <Position X="36.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kqQr2MNxtsw72z2J7b+3PW+XPPebbl9u69xhW0bMf4c=</HashCode>
+      <FileName>Test Framework\Pages\Cases\Detail\Claims\ClaimForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.TestFramework.Pages.Cases.Detail.ClaimsDetailTab" Collapsed="true">
+    <Position X="36.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAidaIiAKoNAQEghSkDACCUC4AAAAYHqEE1BCoBBk=</HashCode>
+      <FileName>Test Framework\Pages\Cases\Detail\Claims\ClaimsDetailTab.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.TestFramework.Pages.Cases.Detail.DistributionTab" Collapsed="true">
+    <Position X="38.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wAAgQECIABAgYIAAKACBABBAICQAAgIoAgRgQABgAAA=</HashCode>
+      <FileName>Test Framework\Pages\Cases\Detail\Distribution\DistributionTab.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.TestFramework.Pages.Cases.Detail.CaseNoteData" Collapsed="true">
+    <Position X="117.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAEACQAAAAAAAAAAAAAAAAgAACAAAhEE=</HashCode>
+      <FileName>Test Framework\Pages\Cases\Detail\Notes\CaseNoteData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.TestFramework.Pages.Cases.Detail.NotesWindow" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IMgyoQIMGEEEIAZgIBUI4AgBASDZQACMClwGAILBAFA=</HashCode>
+      <FileName>Test Framework\Pages\Cases\Detail\Notes\NotesWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Pages.Cases.Detail.AssetForm" Collapsed="true">
+    <Position X="32" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAEEBIJAEIAEgAhIxAUAhEiAAAOIQgAAQAARAgSEKAA=</HashCode>
+      <FileName>Test Framework\Pages\Cases\Detail\Assets\AssetForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Cases.Detail.Assets.AssetSummaryItemData" Collapsed="true">
+    <Position X="115.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAGAAAAAABAQAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Test Framework\Pages\Cases\Detail\Assets\AssetSummaryItemData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Cases.Detail.Assets.CaseAssetsFormSteps" Collapsed="true">
+    <Position X="21" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAkAAEgRQAEAAhAgAAMACAAAAgABA=</HashCode>
+      <FileName>Test Framework\Steps\Cases\Detail\Assets\CaseAssetsFormSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Cases.Detail.Assets.CaseAssetsListSteps" Collapsed="true">
+    <Position X="30" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAABAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Test Framework\Steps\Cases\Detail\Assets\CaseAssetsListSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Cases.Detail.Assets.CaseAssetsSummarySteps" Collapsed="true">
+    <Position X="41.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAABAAAAAAAAAAAAAIBAAAAAA=</HashCode>
+      <FileName>Test Framework\Steps\Cases\Detail\Assets\CaseAssetsSummarySteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Cases.Detail.BankSummaryItemData" Collapsed="true">
+    <Position X="117.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAkAAAAIAIAAAAAAIBAAAAAAADAABAAABAAAAA=</HashCode>
+      <FileName>Test Framework\Pages\Cases\Detail\Banking\BankSummaryItemData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Cases.Detail.ClaimData" Collapsed="true">
+    <Position X="119" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwCAQIEEEggAAEAIAogBCCQAAAACAAAAQACAAQACAA=</HashCode>
+      <FileName>Test Framework\Pages\Cases\Detail\Claims\ClaimData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Cases.Detail.ClaimSummaryItemData" Collapsed="true">
+    <Position X="122.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAIAAEggAEEAAAgAABAQADAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Test Framework\Pages\Cases\Detail\Claims\ClaimSummaryItemData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Cases.Detail.DistributionSummaryItemData" Collapsed="true">
+    <Position X="120.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAEAAAAAAAgCAAAAAAAQAAAQAAIASgAAAIAQAA=</HashCode>
+      <FileName>Test Framework\Pages\Cases\Detail\Distribution\DistributionSummaryItemData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Cases.Detail.CaseDetailSteps" Collapsed="true">
+    <Position X="59.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAgAYQIIAcAAAABAAAAIBCAAAAQABQgQAAA=</HashCode>
+      <FileName>Test Framework\Steps\Cases\Detail\CaseDetailSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Cases.Detail.CaseClaimsSummarySteps" Collapsed="true">
+    <Position X="63.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAACAAAAAIACAAAAAAAwAAAAACAAAAwAAAAAAAA=</HashCode>
+      <FileName>Test Framework\Steps\Cases\Detail\Claims\CaseClaimsSummarySteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Cases.Detail.CaseNotesSteps" Collapsed="true">
+    <Position X="66" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QRMCoAAAOEBAAQEBUIAABBEAAJBADIACAAAIAgEBAQA=</HashCode>
+      <FileName>Test Framework\Steps\Cases\Detail\Notes\CaseNotesSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Pages.Cases.Detail.Banking.BankTransactionData" Collapsed="true">
+    <Position X="119" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gCACAEgAQAB0AAEQBAAsABSEAAIAIAJAAEAAEAABAEA=</HashCode>
+      <FileName>Test Framework\Pages\Cases\Detail\Banking\BankTransactionData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Pages.Cases.Detail.Banking.ClaimLinkData" Collapsed="true">
+    <Position X="120.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACACAAAAAgAAAEAEAgAASABAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Test Framework\Pages\Cases\Detail\Banking\ClaimLinkData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Pages.Cases.Detail.Distribution.DistributionClaimCategoryData" Collapsed="true">
+    <Position X="113.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAEQAAAAAAQAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Test Framework\Pages\Cases\Detail\Distribution\DistributionClaimCategoryData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Pages.Cases.Detail.Distribution.DistributionClaimClassData" Collapsed="true">
+    <Position X="115.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAEQAAAAAAQAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Test Framework\Pages\Cases\Detail\Distribution\DistributionClaimClassData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Pages.Cases.Detail.Distribution.DistributionClaimData" Collapsed="true">
+    <Position X="117.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEgAAAQAAAAAAAAAAAAAAAAACAI=</HashCode>
+      <FileName>Test Framework\Pages\Cases\Detail\Distribution\DistributionClaimData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Pages.Cases.Detail.Distribution.DistributionForm" Collapsed="true">
+    <Position X="38.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>VCTkHp1ramVdrckaQh8AxYTwpds08Kbdz1A9CveW1pA=</HashCode>
+      <FileName>Test Framework\Pages\Cases\Detail\Distribution\DistributionForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Pages.Cases.Detail.Distribution.DistributionGroupData" Collapsed="true">
+    <Position X="119" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAACAAAAGAkAACAIIgAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Test Framework\Pages\Cases\Detail\Distribution\DistributionGroupData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Pages.Cases.List.CaseListFields" Collapsed="true">
+    <Position X="115.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAhAAAAAEAAAAAAIQAAAEAAAAAAAAEAAAA=</HashCode>
+      <FileName>Test Framework\Pages\Cases\List\CaseListFields.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Pages.Cases.List.CaseListSearchForm" Collapsed="true">
+    <Position X="14" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAQAgAEAABQEQAQkSQAQCAAAACAAAAAAABAAAYAA=</HashCode>
+      <FileName>Test Framework\Pages\Cases\List\CaseListSearchForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Pages.Cases.List.PickListField" Collapsed="true">
+    <Position X="18.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAARABAAICEAEIAAAGAAAUIaAABABQgCAAIIAABCKkA=</HashCode>
+      <FileName>Test Framework\Pages\Cases\List\PickListField.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Pages.Cases.List.TextField" Collapsed="true">
+    <Position X="23" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAFAAAJCAAAAAAAAAAAAAQAAAAAAIAAAAQABIAAAA=</HashCode>
+      <FileName>Test Framework\Pages\Cases\List\TextField.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Common.CaseListPage" Collapsed="true">
+    <Position X="50" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kIOAEgocoFgkACMHCAwCAZojIQgAhGBADBgwAGEBAwA=</HashCode>
+      <FileName>Test Framework\Pages\Cases\List\CaseListPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Common.CommonMethodsUnityStepBase" Collapsed="true">
+    <Position X="85" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gCF8EIYaYok4EREwylgsVMsIiBwGxcAChASglDACAUA=</HashCode>
+      <FileName>Test Framework\Steps\Common\Base\CommonMethodsUnityStepBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Common.SignedInUnityUserSteps" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAgBAAAAAAAAAAABAAIAQACAAAAAAAA=</HashCode>
+      <FileName>Test Framework\Steps\Common\Base\SignedInUnityUserStepBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Common.CommonDBSteps" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAAgAAAAAAAAAEAAgAAAAAAAAAAAACAAAIAAAAAgAAA=</HashCode>
+      <FileName>Test Framework\Steps\Common\CommonDBSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Common.CommonRegionsSteps" Collapsed="true">
+    <Position X="14.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAgAAAAAAAAAAAIIgEgAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Test Framework\Steps\Common\CommonRegionsSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Common.ContactEpiqSteps" Collapsed="true">
+    <Position X="23.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Test Framework\Steps\Common\ContactEpiqSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Common.RolesAndPermissionsSteps" Collapsed="true">
+    <Position X="32.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAACAEAAAAAAAAAAAAAAACEAAAAACAAAA=</HashCode>
+      <FileName>Test Framework\Steps\Common\RolesAndPermissionsSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Pages.Common.CircleIcon" Collapsed="true">
+    <Position X="7.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAgAAAAAAAEAAAAAAAAAAAAAQAgAAAAAAA=</HashCode>
+      <FileName>Test Framework\Pages\Common\CircleIcon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Pages.Common.MyPhoneField" Collapsed="true">
+    <Position X="9.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAIAEAAAAAAAAgAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Test Framework\Pages\Common\FormFields\MyPhoneField.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Pages.Common.MySelectDropdownField" Collapsed="true">
+    <Position X="11.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABEAAEAAAAACAAAQAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Test Framework\Pages\Common\FormFields\MySelectDropdownField.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Pages.Common.MyTextAreaField" Collapsed="true">
+    <Position X="16.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAIAEAAAAAAAAgAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Test Framework\Pages\Common\FormFields\MyTextAreaField.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Pages.Common.MyTextboxField" Collapsed="true">
+    <Position X="20.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAIAEAAAAAAAAgAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Test Framework\Pages\Common\FormFields\MyTextboxField.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Pages.Common.NavigationBar" Collapsed="true">
+    <Position X="25.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABEQICACAgEIAAQEAAAAgAAAAEAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Test Framework\Pages\Common\NavigationBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Pages.Common.UnityPageBase" Collapsed="true">
+    <Position X="41" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GQAgEAIAEAAAAAQABAQEAAIIAhAYBAwBCEAEICAGAAA=</HashCode>
+      <FileName>Test Framework\Pages\Common\UnityPageBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Pages.Common.ReportsPage" Collapsed="true">
+    <Position X="54.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Test Framework\Pages\Reports\ReportsPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.UniversalAppBar" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEAAAABAAEAIAAIAAAIABAIBAAgEBAAAxCAAUwAkAQA=</HashCode>
+      <FileName>Test Framework\Pages\Common\UniversalAppBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.PredictiveSearchSteps" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAAAQAAAAAAEAAAAAAAAAAAAAAEAAABAIAAAA=</HashCode>
+      <FileName>Test Framework\Steps\Common\PredictiveSearchSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.DashboardSteps" Collapsed="true">
+    <Position X="16.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAgAAAAAAAAAAQAECAAAAAAAAABACAAAY=</HashCode>
+      <FileName>Test Framework\Steps\Dashboard\DashboardSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Pages.Dashboard.UniversalSearch" Collapsed="true">
+    <Position X="5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACBQAEBBAABAQQBAEAACAAAIAAFIgAAAAEAAgAAgAIA=</HashCode>
+      <FileName>Test Framework\Pages\Dashboard\UniversalSearch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Cases.Detail.Banking.CaseDetail_Banking_AddTransactionsSpecialSteps" Collapsed="true">
+    <Position X="34.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAcAAAIQAAAAAUAAAAAAAAAAAAAAEAAAAAAAAAAAo=</HashCode>
+      <FileName>Test Framework\Steps\Cases\Detail\Banking\CaseDetail_Banking_AddTransactionsSpecialSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Cases.Detail.Banking.CaseDetail_Banking_BASummarySteps" Collapsed="true">
+    <Position X="43.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAIAAAAAAAAAAAAAAAAUBAIAAAEAAAA=</HashCode>
+      <FileName>Test Framework\Steps\Cases\Detail\Banking\CaseDetail_Banking_BASummarySteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Cases.Detail.Banking.CaseDetail_Banking_CheckAddSplitUTCSteps" Collapsed="true">
+    <Position X="45.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAIQIAEAEAAAEIAAUAAQARAAAEAAAkFAAAAIIdQQAA=</HashCode>
+      <FileName>Test Framework\Steps\Cases\Detail\Banking\CaseDetail_Banking_CheckAddSplitUTCSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Cases.Detail.Banking.CaseDetail_Banking_EditDepositSteps" Collapsed="true">
+    <Position X="79.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAACQEAAAAAAAAAAA=</HashCode>
+      <FileName>Test Framework\Steps\Cases\Detail\Banking\CaseDetail_Banking_EditDepositSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Cases.Detail.Banking.CaseDetail_Banking_NewDepositSteps" Collapsed="true">
+    <Position X="86.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAQAAAAEAAAAAAAgAAABAAAgAAAAAgAA=</HashCode>
+      <FileName>Test Framework\Steps\Cases\Detail\Banking\CaseDetail_Banking_NewDepositSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Cases.Detail.Banking.CaseDetail_Banking_NewTransactionSteps" Collapsed="true">
+    <Position X="90.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAFAAAAABhAAAAAwAQEABCAAIACEAACUQABYAiQAAAg=</HashCode>
+      <FileName>Test Framework\Steps\Cases\Detail\Banking\CaseDetail_Banking_NewTransactionSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Cases.Detail.Banking.CaseDetail_Banking_PayToTheOrderOfPredictive" Collapsed="true">
+    <Position X="61.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAIAAAAAQCAAAIAAAAAAAAAEAAAAAAAAAIA=</HashCode>
+      <FileName>Test Framework\Steps\Cases\Detail\Banking\CaseDetail_Banking_PayToTheOrderOfPredictive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Cases.Detail.Banking.CaseDetail_Banking_TransactionsLinksSteps" Collapsed="true">
+    <Position X="99.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEUQRwBA4CKNAGAShqEBAgQOCAgEBDKEAUoQCMJBAQI=</HashCode>
+      <FileName>Test Framework\Steps\Cases\Detail\Banking\CaseDetail_Banking_TransactionsLinksSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Cases.Detail.Banking.CaseDetail_Banking_TransactionsListSteps" Collapsed="true">
+    <Position X="104.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DCFgSAAFRJgTYAQACjiSgQCAAABMACQMRgAEQUAUQ6E=</HashCode>
+      <FileName>Test Framework\Steps\Cases\Detail\Banking\CaseDetail_Banking_TransactionsListSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Cases.Detail.Banking.CaseDetail_Banking_TransactionsPrintSteps" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAABAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Test Framework\Steps\Cases\Detail\Banking\CaseDetail_Banking_TransactionsPrintSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Cases.Detail.Claims.CaseClaimsListSteps" Collapsed="true">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAgAACAAAAEAAAAAAAAAAAQAAAAAAAACAABAAEAAIA=</HashCode>
+      <FileName>Test Framework\Steps\Cases\Detail\Claims\CaseClaimsListSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Cases.Detail.Claims.CaseClaimsNewSteps" Collapsed="true">
+    <Position X="18.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>khiMQ4AwocyYIVESEECCEkHUhQAYCkgAAKlrQYwBhIg=</HashCode>
+      <FileName>Test Framework\Steps\Cases\Detail\Claims\CaseClaimsNewSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Cases.Detail.Distribution.DistributionsSummarySteps" Collapsed="true">
+    <Position X="25.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAACAABgAAAAAAAAAAAAAAQAAAAAIAABACA=</HashCode>
+      <FileName>Test Framework\Steps\Cases\Detail\Distribution\DistributionsSummarySteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Cases.Detail.Distribution.NewDistributionSteps" Collapsed="true">
+    <Position X="36.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EnUAikUMACIQxhEASxQAAIACDACQgOEBEYoTaDSwFgA=</HashCode>
+      <FileName>Test Framework\Steps\Cases\Detail\Distribution\NewDistributionSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Cases.Detail.Distribution.NewDistributionValidationsSteps" Collapsed="true">
+    <Position X="36.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAACCgAAAAAAAEAIAAoEAAAAIAAFACIAIQAAA=</HashCode>
+      <FileName>Test Framework\Steps\Cases\Detail\Distribution\NewDistributionValidationsSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.TestFramework.Pages.Cases.List.CaseListSearchSteps" Collapsed="true">
+    <Position X="48" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAIgQACEAQBAAAAACAAQAABAAAVSAABBAAgAAgQAAA=</HashCode>
+      <FileName>Test Framework\Steps\Cases\List\CasesListSearchSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.TestFramework.Pages.Cases.List.CasesListSteps" Collapsed="true">
+    <Position X="52.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAhEiEAAsAAhAAANAIABAAABAAAAAFAACAEBIhICAIA=</HashCode>
+      <FileName>Test Framework\Steps\Cases\List\CasesListSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Dashboard.UniversalSearchSteps" Collapsed="true">
+    <Position X="54.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAEAERAIAAQAAIABAAAAAAAAAAAAAAAABAAAQEA=</HashCode>
+      <FileName>Test Framework\Steps\Dashboard\UniversalSearchSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Login.LoginSteps" Collapsed="true">
+    <Position X="57" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAABBAAAAAAACQYEAAAAQQAAJBQAAAA=</HashCode>
+      <FileName>Test Framework\Steps\Login\LoginSteps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.Test_Framework.Steps.Reports.CoreReports.CoreReportsStepDefinitions" Collapsed="true">
+    <Position X="95.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQCcYAeSMAMCADmAJjEZk0gkA6GAiECZMxIABAahxQA=</HashCode>
+      <FileName>Test Framework\Steps\Reports\CoreReports\CoreReports_StepDefinitions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

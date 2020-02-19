@@ -1,0 +1,116 @@
+No asset # (from DB = 0)
+	Description any - all other fields default
+	CODE: empty
+	SUBCODE: empty
+
+--UDPDATE QUERY FOR NO ASSET #
+	UPDATE [TCMS21].[dbo].[Asset] SET AssetNumber=0 WHERE AssetId=25401;
+		
+
+No asset # (from DB = NULL)
+	Description any - all other fields default
+	CODE: empty
+	SUBCODE: empty
+
+--UDPDATE QUERY FOR NO ASSET #
+	UPDATE [TCMS21].[dbo].[Asset] SET AssetNumber=NULL WHERE AssetId=25408;
+
+	
+	No asset # (from DB = '')
+	Description any - all other fields default
+	CODE: empty
+	SUBCODE: empty
+
+--UDPDATE QUERY FOR NO ASSET #
+	UPDATE [TCMS21].[dbo].[Asset] SET AssetNumber='' WHERE AssetId=25401;
+
+		
+	
+2
+	Description alphabetically 1st: Test Automation Assets List (A)
+	CODE: 1110
+	SUBCODE: empty	
+	Asset type: Scheduled (code 1110)
+	Asset value type: Known
+	Petition Value: any (100) -> Trustee value updates automatically
+	LIENS: 10
+	EST COST OF SALES: 100
+	EXEMPTIONS: 15
+	Net Value: ?
+	Form 1 Note: empty
+	FA complete
+	Abandoned: No
+	Ownership: Unknown
+	Reserved: No
+	Sales: ?
+	
+	
+	
+	
+2
+	Description alphabetically 2nd: Test Automation Assets List (B)
+	CODE: 1210
+	SUBCODE: any	
+	Asset type: Unscheduled (code 1210)
+	Asset value type: Unknown
+	Petition Value: any (200)
+	LIENS: 20
+	EST COST OF SALES: 200
+	EXEMPTIONS: 25
+	Form 1 Note: short value
+	FA not completed
+	Net Value: ?
+	Abandoned: yes
+	Ownership: Unknown
+	Reserved: No
+	Sales: ?
+	
+--UDPDATE QUERY FOR ASSET #
+	UPDATE [TCMS21].[dbo].[Asset] SET AssetNumber=2 WHERE AssetId=25405;
+
+	
+4	
+	Description Test Automation Assets List (A)
+	CODE: empty
+	SUBCODE: any (12)
+	Asset type: null
+	Asset value type: N/A
+	Petition Value: any (200)
+	LIENS: 30
+	EST COST OF SALES: 300
+	EXEMPTIONS: 35
+	Net Value: ?
+	Abandoned: unknown
+	Ownership: Unknown
+	Sales: ?
+	Form 1 Note: long value
+
+
+	
+CODE: determines Scheduled/Unscheduled	
+Assets Scheduled
+1110
+1121
+1122
+1123
+1124
+1129
+1130
+1141
+1142
+1149
+
+Unscheduled Assets for AC # 3
+1210
+1221
+1222
+1223
+1224
+1229
+1230
+1241
+1242
+1249
+1270
+1280
+1290

@@ -1,0 +1,3 @@
+--Resetear Missin Fix ID para testing
+UPDATE dbo.Participant SET SocialSecurityNumber = NULL, TaxIdentification = NULL
+WHERE ParticipantId = 6271

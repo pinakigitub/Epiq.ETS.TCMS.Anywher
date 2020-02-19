@@ -1,0 +1,27 @@
+SELECT * FROM Job WHERE JobStatusId = 3 ORDER BY 1 DESC
+
+INSERT INTO [dbo].[ReportQueue]
+           ([FileName]
+           ,[FileExtension]
+           ,[JobId]
+           ,[ReportId]
+           ,[UserId]
+           ,[OfficeId]
+           ,[OpenedOn]
+           ,[ModifiedOn]
+           ,[ModifiedByUserId]
+           ,[Content]
+           ,[Context])
+     VALUES
+           (''
+           ,'pdf'
+           ,211
+           ,157
+           ,3
+           ,5
+           ,NULL
+           ,GETDATE()
+           ,112
+           ,NULL
+           ,NULL)
+

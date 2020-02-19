@@ -1,0 +1,24 @@
+INSERT INTO [dbo].[ReportQueue]
+           ([FileName]
+           ,[FileExtension]
+           ,[JobId]
+           ,[ReportId]
+           ,[UserId]
+           ,[OfficeId]
+           ,[OpenedOn]
+           ,[ModifiedOn]
+           ,[ModifiedByUserId]
+           ,[Content]
+           ,[Context])
+     VALUES
+           ('1099-Misc Copy A'
+           ,'pdf'
+           ,NULL
+           ,157
+           ,3
+           ,5
+           ,GETDATE()
+           ,GETDATE()
+           ,3
+           ,NULL
+           ,NULL)

@@ -1,0 +1,13 @@
+SELECT 
+  --Forms.ReportId AS FormId,
+  --Forms.Name AS FormName,
+  Forms.Description AS FormDescription--,
+  --Forms.AlternateReportPath AS FormAlternatePath
+ FROM
+ (SELECT
+  ReportId, Name, Description, AlternateReportPath 
+ from Report where (Name LIKE '%1099%') and AlternateReportPath NOT LIKE '%Form1099Int%'
+ UNION
+  Select ReportId, Name, Description, AlternateReportPath 
+ from Report where AlternateReportPath LIKE '%Form1096%') Forms
+ ORDER BY ReportId ASC

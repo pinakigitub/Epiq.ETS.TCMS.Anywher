@@ -1,0 +1,21 @@
+select
+j.JobId as JobId,
+rq.ReportQueueId as QueueId,
+js.Name as JobStatus,
+rq.FileName as Name,
+u.DisplayName as UserName,
+j.InsertedOn as Date
+from dbo.ReportQueue rq
+
+left join dbo.Job j
+on rq.JobId = j.JobId
+
+left join dbo.JobStatus js
+on j.JobStatusId = js.JobStatusId
+
+left join dbo.[User] u
+on rq.UserId = u.UserID
+
+where rq.JobId IS NOT NULL
+and rq.FileName = @fileName
+order by j.InsertedOn desc

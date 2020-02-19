@@ -1,0 +1,28 @@
+SELECT 
+coa.ChartOfAccountId AS IdCode,
+coa.Number AS NumberCode,
+coa.Name AS 'DescriptionCode',
+sub.ChartOfAccountSubNumberId AS IdSubcode,
+sub.ChartOfAccountSubNumber AS NumberSubCode,
+sub.Name AS 'DescriptionSubCode'
+FROM dbo.ChartOfAccount coa 
+JOIN dbo.ChartOfAccountChartOfAccountSubNumber joinTbl ON joinTbl.ChartOfAccountId = coa.ChartOfAccountId
+JOIN dbo.ChartOfAccountSubNumber sub ON sub.ChartOfAccountSubNumberId = joinTbl.ChartOfAccountSubNumberId 
+WHERE coa.OfficeId IS NULL AND sub.OfficeId IS NULL
+
+
+UNION
+
+SELECT 
+coa.ChartOfAccountId AS IdCode,
+coa.Number AS NumberCode,
+coa.Name AS 'DescriptionCode',NULL,NULL,NULL
+FROM dbo.ChartOfAccount coa 
+WHERE coa.OfficeId IS NULL
+AND coa.ChartOfAccountId NOT IN (SELECT 
+coa.ChartOfAccountId AS IdCode
+FROM dbo.ChartOfAccount coa 
+JOIN dbo.ChartOfAccountChartOfAccountSubNumber joinTbl ON joinTbl.ChartOfAccountId = coa.ChartOfAccountId
+JOIN dbo.ChartOfAccountSubNumber sub ON sub.ChartOfAccountSubNumberId = joinTbl.ChartOfAccountSubNumberId 
+WHERE coa.OfficeId IS NULL AND sub.OfficeId IS NULL)
+Order by coa.Number, sub.ChartOfAccountSubNumber

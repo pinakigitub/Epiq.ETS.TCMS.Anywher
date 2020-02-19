@@ -1,0 +1,5 @@
+delete from [dbo].ReportQueue
+where FileName = 'Test_Report_Fail'
+or FileName = 'Test_Report_Success'
+or FileName = 'Test_Report_Pending'
+
