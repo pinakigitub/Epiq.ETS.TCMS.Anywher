@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epiq.ETS.TCMS.Anywhere.Testing.E2ETest", "Epiq.ETS.TCMS.Anywhere.Testing.E2ETest.csproj", "{A5CF1E40-6824-443B-8236-EE8362B523F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		DebugDev(Chrome)|Any CPU = DebugDev(Chrome)|Any CPU
+		DebugDev(Firefox)|Any CPU = DebugDev(Firefox)|Any CPU
+		DebugDev(InternetExplorer)|Any CPU = DebugDev(InternetExplorer)|Any CPU
+		DebugQA(Chrome)|Any CPU = DebugQA(Chrome)|Any CPU
+		DebugQA(Firefox)|Any CPU = DebugQA(Firefox)|Any CPU
+		DebugQA(InternetExplorer)|Any CPU = DebugQA(InternetExplorer)|Any CPU
+		DebugQA(RC)|Any CPU = DebugQA(RC)|Any CPU
+		LocalQA(Chrome)|Any CPU = LocalQA(Chrome)|Any CPU
+		LocalQA(Firefox)|Any CPU = LocalQA(Firefox)|Any CPU
+		LocalQA(InternetExplorer)|Any CPU = LocalQA(InternetExplorer)|Any CPU
+		NewConfig|Any CPU = NewConfig|Any CPU
+		QA-Aeris|Any CPU = QA-Aeris|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5CF1E40-6824-443B-8236-EE8362B523F8}.DebugDev(Chrome)|Any CPU.ActiveCfg = DebugDev(Chrome)|Any CPU
+		{A5CF1E40-6824-443B-8236-EE8362B523F8}.DebugDev(Chrome)|Any CPU.Build.0 = DebugDev(Chrome)|Any CPU
+		{A5CF1E40-6824-443B-8236-EE8362B523F8}.DebugDev(Firefox)|Any CPU.ActiveCfg = DebugDev(Firefox)|Any CPU
+		{A5CF1E40-6824-443B-8236-EE8362B523F8}.DebugDev(Firefox)|Any CPU.Build.0 = DebugDev(Firefox)|Any CPU
+		{A5CF1E40-6824-443B-8236-EE8362B523F8}.DebugDev(InternetExplorer)|Any CPU.ActiveCfg = DebugDev(InternetExplorer)|Any CPU
+		{A5CF1E40-6824-443B-8236-EE8362B523F8}.DebugDev(InternetExplorer)|Any CPU.Build.0 = DebugDev(InternetExplorer)|Any CPU
+		{A5CF1E40-6824-443B-8236-EE8362B523F8}.DebugQA(Chrome)|Any CPU.ActiveCfg = DebugQA(Chrome)|Any CPU
+		{A5CF1E40-6824-443B-8236-EE8362B523F8}.DebugQA(Chrome)|Any CPU.Build.0 = DebugQA(Chrome)|Any CPU
+		{A5CF1E40-6824-443B-8236-EE8362B523F8}.DebugQA(Firefox)|Any CPU.ActiveCfg = DebugQA(Firefox)|Any CPU
+		{A5CF1E40-6824-443B-8236-EE8362B523F8}.DebugQA(Firefox)|Any CPU.Build.0 = DebugQA(Firefox)|Any CPU
+		{A5CF1E40-6824-443B-8236-EE8362B523F8}.DebugQA(InternetExplorer)|Any CPU.ActiveCfg = DebugQA(InternetExplorer)|Any CPU
+		{A5CF1E40-6824-443B-8236-EE8362B523F8}.DebugQA(InternetExplorer)|Any CPU.Build.0 = DebugQA(InternetExplorer)|Any CPU
+		{A5CF1E40-6824-443B-8236-EE8362B523F8}.DebugQA(RC)|Any CPU.ActiveCfg = DebugQA(RC)|Any CPU
+		{A5CF1E40-6824-443B-8236-EE8362B523F8}.DebugQA(RC)|Any CPU.Build.0 = DebugQA(RC)|Any CPU
+		{A5CF1E40-6824-443B-8236-EE8362B523F8}.LocalQA(Chrome)|Any CPU.ActiveCfg = LocalQA(Chrome)|Any CPU
+		{A5CF1E40-6824-443B-8236-EE8362B523F8}.LocalQA(Chrome)|Any CPU.Build.0 = LocalQA(Chrome)|Any CPU
+		{A5CF1E40-6824-443B-8236-EE8362B523F8}.LocalQA(Firefox)|Any CPU.ActiveCfg = LocalQA(Firefox)|Any CPU
+		{A5CF1E40-6824-443B-8236-EE8362B523F8}.LocalQA(Firefox)|Any CPU.Build.0 = LocalQA(Firefox)|Any CPU
+		{A5CF1E40-6824-443B-8236-EE8362B523F8}.LocalQA(InternetExplorer)|Any CPU.ActiveCfg = LocalQA(InternetExplorer)|Any CPU
+		{A5CF1E40-6824-443B-8236-EE8362B523F8}.LocalQA(InternetExplorer)|Any CPU.Build.0 = LocalQA(InternetExplorer)|Any CPU
+		{A5CF1E40-6824-443B-8236-EE8362B523F8}.NewConfig|Any CPU.ActiveCfg = NewConfig|Any CPU
+		{A5CF1E40-6824-443B-8236-EE8362B523F8}.NewConfig|Any CPU.Build.0 = NewConfig|Any CPU
+		{A5CF1E40-6824-443B-8236-EE8362B523F8}.QA-Aeris|Any CPU.ActiveCfg = QA-Aeris|Any CPU
+		{A5CF1E40-6824-443B-8236-EE8362B523F8}.QA-Aeris|Any CPU.Build.0 = QA-Aeris|Any CPU
+		{A5CF1E40-6824-443B-8236-EE8362B523F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5CF1E40-6824-443B-8236-EE8362B523F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {340ED6C5-19A3-422B-BC90-02B21B7348E4}
+	EndGlobalSection
+EndGlobal

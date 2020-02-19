@@ -1,6 +1,6 @@
 DECLARE @CaseId int = (SELECT CaseId FROM [dbo].[Case] WHERE CoreCaseNumber=@CoreCaseNumber);
 DECLARE	@return_value int
-
+--//sada
 EXEC	@return_value = [TCMS].[CreateAsset]		
 		@TrusteeValue = 200,
 		@PetitionValue = 100,
